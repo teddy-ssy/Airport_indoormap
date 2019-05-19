@@ -1,0 +1,315 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.sails.example.MainActivity" >
+
+    <FrameLayout
+        android:id="@+id/SAILSMap_search_result"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:visibility="invisible" />
+
+    <RelativeLayout
+        android:id="@+id/relativelayout_allitemofmap"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:visibility="invisible" >
+
+        <SurfaceView
+            android:id="@+id/camera_search"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:visibility="invisible" />
+
+        <com.airport.exterview.Myview
+            android:id="@+id/show_search"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:visibility="invisible" />
+
+        <Button
+            android:id="@+id/button_checkallroute_search"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:background="#eee"
+            android:text="查看路线"
+            android:textSize="20dp" />
+
+        <ImageView
+            android:id="@+id/zoomin_search"
+            android:layout_width="57dp"
+            android:layout_height="57dp"
+            android:layout_above="@+id/zoomout_search"
+            android:layout_alignParentRight="true"
+            android:src="@drawable/zoominb" />
+
+        <ImageView
+            android:id="@+id/zoomout_search"
+            android:layout_width="57dp"
+            android:layout_height="57dp"
+            android:layout_alignParentRight="true"
+            android:layout_alignTop="@+id/lockcenter_search"
+            android:baselineAlignBottom="false"
+            android:src="@drawable/zoomoutb" />
+
+        <ImageView
+            android:id="@+id/lockcenter_search"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentLeft="true"
+            android:src="@drawable/center1" />
+
+        <RelativeLayout
+            android:id="@+id/banner_unopen_search"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:background="#ddd"
+            android:padding="10dp"
+            android:visibility="invisible" >
+
+            <TextView
+                android:id="@+id/textvire_unopen_search"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentTop="true"
+                android:layout_centerHorizontal="true" />
+
+            <Button
+                android:id="@+id/button_unopen_settraget_search"
+                android:layout_width="130dp"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_below="@id/textvire_unopen_search"
+                android:text="到这里" />
+
+            <Button
+                android:id="@+id/button_unopen_settrainset_search"
+                android:layout_width="130dp"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_below="@id/textvire_unopen_search"
+                android:text="中转点" />
+
+            <Button
+                android:id="@+id/button_unopen_setstart_search"
+                android:layout_width="130dp"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_below="@id/button_unopen_settraget_search"
+                android:text="从这里出发" />
+
+            <Button
+                android:id="@+id/button_unopen_checkdetail_search"
+                android:layout_width="130dp"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_below="@id/button_unopen_settrainset_search"
+                android:text="标签" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/banner_open_search"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:background="#ddd"
+            android:padding="10dp"
+            android:visibility="invisible" >
+
+            <TextView
+                android:id="@+id/textvire_open_search"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentTop="true"
+                android:layout_centerHorizontal="true" />
+
+            <Button
+                android:id="@+id/button_open_settraget_search"
+                android:layout_width="130dp"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_below="@id/textvire_open_search"
+                android:text="到这里" />
+
+            <Button
+                android:id="@+id/button_open_settrainset_search"
+                android:layout_width="130dp"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_below="@id/textvire_open_search"
+                android:text="中转点" />
+
+            <Button
+                android:id="@+id/button_open_checkdetail_search"
+                android:layout_width="130dp"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_below="@id/button_open_settrainset_search"
+                android:text="标签" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/banner_label_search"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:background="#eee"
+            android:padding="10dp" >
+
+            <TextView
+                android:id="@+id/label_text_search"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:text="添加标签"
+                android:textColor="#000"
+                android:textSize="15dp" />
+
+            <LinearLayout
+                android:id="@+id/layout_1_search"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/label_text_search"
+                android:orientation="horizontal" >
+
+                <Button
+                    android:id="@+id/button_banner_label_eat_search"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="吃饭" />
+
+                <Button
+                    android:id="@+id/button_banner_label_shop_search"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="购物" />
+
+                <Button
+                    android:id="@+id/button_banner_label_info_search"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="询问" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/layout_2_search"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/layout_1_search"
+                android:orientation="horizontal" >
+
+                <Button
+                    android:id="@+id/button_banner_label_enter_search"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_toRightOf="@id/button_banner_label_info_search"
+                    android:layout_weight="1"
+                    android:text="登机口" />
+
+                <Button
+                    android:id="@+id/button_banner_label_zhiji_search"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_toRightOf="@id/button_banner_label_enter_search"
+                    android:layout_weight="1"
+                    android:text="值机柜台" />
+            </LinearLayout>
+        </RelativeLayout>
+
+        <Spinner
+            android:id="@+id/spinner_search"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:paddingBottom="10dp"
+            android:paddingTop="10dp" />
+
+        <Button
+            android:id="@+id/stopRoute_search"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignEnd="@+id/zoomin"
+            android:layout_alignRight="@+id/zoomin"
+            android:layout_below="@+id/spinner_search"
+            android:text="Stop Route"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/pinMarker_search"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_below="@+id/spinner_search"
+            android:text="Place a Pin Marker"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/distanceView_search"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="false"
+            android:layout_alignParentStart="false"
+            android:layout_alignParentTop="false"
+            android:layout_below="@+id/stopRoute_search"
+            android:background="#80000000"
+            android:gravity="right"
+            android:padding="5dp"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@android:color/holo_blue_light"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/currentFloorDistanceView_search"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_below="@+id/distanceView_search"
+            android:background="#80000000"
+            android:gravity="right"
+            android:padding="5dp"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@android:color/holo_orange_light"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/msgView_search"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_below="@+id/currentFloorDistanceView_search"
+            android:background="#80000000"
+            android:gravity="left"
+            android:padding="5dp"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@android:color/holo_green_light"
+            android:textStyle="bold|italic" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/RelativeLayout_result"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <ExpandableListView
+            android:id="@+id/expandableListView_search_result"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+    </RelativeLayout>
+
+</RelativeLayout>

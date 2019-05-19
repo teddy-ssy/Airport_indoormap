@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#eee"
+    android:orientation="vertical" >
+
+    <ImageView
+        android:id="@+id/imageview_fuwutitle"
+        android:layout_width="fill_parent"
+        android:layout_height="130dp"
+        android:background="@drawable/help_title_image" />
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:padding="10dp" >
+
+        <RelativeLayout
+            android:id="@+id/layout_fuwufull"
+            android:layout_width="fill_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="30dp"
+            android:background="#fff"
+            android:padding="10dp" >
+
+            <Button
+                android:id="@+id/button_help"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:layout_alignParentTop="true"
+                android:layout_centerHorizontal="true"
+                android:background="@drawable/help_connet_image"
+                android:onClick="button_help"
+                android:text="好友 \n &amp;&amp;\n求救"
+                android:textColor="#fff"
+                android:textSize="20dp" />
+
+            <Button
+                android:id="@+id/button_cab"
+                android:layout_width="fill_parent"
+                android:layout_height="50dp"
+                android:layout_below="@id/button_help"
+                android:layout_marginTop="30dp"
+                android:text="出租车" />
+
+            <Button
+                android:id="@+id/button_bus"
+                android:layout_width="fill_parent"
+                android:layout_height="50dp"
+                android:layout_below="@id/button_cab"
+                android:layout_marginTop="15dp"
+                android:text="机场大巴" />
+
+            <Button
+                android:id="@+id/button_jieji"
+                android:layout_width="fill_parent"
+                android:layout_height="50dp"
+                android:layout_below="@id/button_bus"
+                android:layout_marginTop="15dp"
+                android:text="接机服务" />
+        </RelativeLayout>
+    </RelativeLayout>
+
+</LinearLayout>

@@ -1,0 +1,2511 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-3631' action='modify' visible='true' lat='39.96018462787' lon='116.37636893581' />
+  <node id='-3629' action='modify' visible='true' lat='39.96016949565' lon='116.37442356958' />
+  <node id='-2718' action='modify' visible='true' lat='39.96016970761' lon='116.37682124187' />
+  <node id='-2716' action='modify' visible='true' lat='39.96044170858' lon='116.37399819361' />
+  <node id='-2714' action='modify' visible='true' lat='39.96103221884' lon='116.37541165122' />
+  <node id='-2712' action='modify' visible='true' lat='39.96017906242' lon='116.37650059474' />
+  <node id='-2710' action='modify' visible='true' lat='39.96016717069' lon='116.37441567517' />
+  <node id='-2708' action='modify' visible='true' lat='39.95992377823' lon='116.37661267791' />
+  <node id='-2706' action='modify' visible='true' lat='39.95983882651' lon='116.37662376106' />
+  <node id='-2704' action='modify' visible='true' lat='39.95949335509' lon='116.3768380353' />
+  <node id='-2702' action='modify' visible='true' lat='39.95939707586' lon='116.37684542407' />
+  <node id='-2700' action='modify' visible='true' lat='39.95991811479' lon='116.37414852411' />
+  <node id='-2698' action='modify' visible='true' lat='39.96129763558' lon='116.37683064654' />
+  <node id='-2696' action='modify' visible='true' lat='39.96122401224' lon='116.3768823679' />
+  <node id='-2694' action='modify' visible='true' lat='39.96120135889' lon='116.37680848023' />
+  <node id='-2692' action='modify' visible='true' lat='39.96129250692' lon='116.37395126615' />
+  <node id='-2690' action='modify' visible='true' lat='39.96122454691' lon='116.37390693355' />
+  <node id='-2688' action='modify' visible='true' lat='39.96105464659' lon='116.3738515178' />
+  <node id='-2686' action='modify' visible='true' lat='39.96075448834' lon='116.37384043465' />
+  <node id='-2684' action='modify' visible='true' lat='39.96061573549' lon='116.37389954478' />
+  <node id='-2682' action='modify' visible='true' lat='39.96045999216' lon='116.37383674026' />
+  <node id='-2680' action='modify' visible='true' lat='39.96017106467' lon='116.37384474969' />
+  <node id='-2678' action='modify' visible='true' lat='39.95988272958' lon='116.37384474969' />
+  <node id='-2676' action='modify' visible='true' lat='39.95973255458' lon='116.37390483314' />
+  <node id='-2674' action='modify' visible='true' lat='39.95958438158' lon='116.37385258666' />
+  <node id='-2672' action='modify' visible='true' lat='39.95939468951' lon='116.37394823201' />
+  <node id='-2670' action='modify' visible='true' lat='39.95949269708' lon='116.37416358255' />
+  <node id='-2668' action='modify' visible='true' lat='39.95949663223' lon='116.37425856023' />
+  <node id='-2666' action='modify' visible='true' lat='39.95948530526' lon='116.37398517585' />
+  <node id='-2664' action='modify' visible='true' lat='39.95959291132' lon='116.37399256461' />
+  <node id='-2662' action='modify' visible='true' lat='39.95972883451' lon='116.37398517585' />
+  <node id='-2660' action='modify' visible='true' lat='39.95988174778' lon='116.37399256461' />
+  <node id='-2658' action='modify' visible='true' lat='39.96018757329' lon='116.37399995338' />
+  <node id='-2656' action='modify' visible='true' lat='39.96046508044' lon='116.37399256461' />
+  <node id='-2654' action='modify' visible='true' lat='39.9606406456' lon='116.37399256461' />
+  <node id='-2652' action='modify' visible='true' lat='39.96078789346' lon='116.37399256461' />
+  <node id='-2650' action='modify' visible='true' lat='39.96103708142' lon='116.37399256461' />
+  <node id='-2648' action='modify' visible='true' lat='39.9611956551' lon='116.37398517585' />
+  <node id='-2646' action='modify' visible='true' lat='39.96102858639' lon='116.37428442091' />
+  <node id='-2644' action='modify' visible='true' lat='39.9609634578' lon='116.37427333776' />
+  <node id='-2642' action='modify' visible='true' lat='39.96102292304' lon='116.37649735664' />
+  <node id='-2640' action='modify' visible='true' lat='39.96102292304' lon='116.37641977458' />
+  <node id='-2638' action='modify' visible='true' lat='39.96127777347' lon='116.37419575571' />
+  <node id='-2636' action='modify' visible='true' lat='39.96131175346' lon='116.37426225461' />
+  <node id='-2634' action='modify' visible='true' lat='39.96126927847' lon='116.37660818814' />
+  <node id='-2632' action='modify' visible='true' lat='39.96131741679' lon='116.37653430047' />
+  <node id='-2630' action='modify' visible='true' lat='39.96135422841' lon='116.3763495813' />
+  <node id='-2628' action='modify' visible='true' lat='39.9613627234' lon='116.37596536541' />
+  <node id='-2626' action='modify' visible='true' lat='39.96130892179' lon='116.37577325747' />
+  <node id='-2624' action='modify' visible='true' lat='39.96135422841' lon='116.37559223268' />
+  <node id='-2622' action='modify' visible='true' lat='39.96135422841' lon='116.37521171117' />
+  <node id='-2620' action='modify' visible='true' lat='39.96131458512' lon='116.37501590885' />
+  <node id='-2618' action='modify' visible='true' lat='39.96135706008' lon='116.37483118967' />
+  <node id='-2616' action='modify' visible='true' lat='39.96136555507' lon='116.37443958502' />
+  <node id='-2614' action='modify' visible='true' lat='39.96125549401' lon='116.37652957134' />
+  <node id='-2612' action='modify' visible='true' lat='39.9612594986' lon='116.37635193333' />
+  <node id='-2610' action='modify' visible='true' lat='39.96125549401' lon='116.37597053408' />
+  <node id='-2608' action='modify' visible='true' lat='39.96125148943' lon='116.37577722213' />
+  <node id='-2606' action='modify' visible='true' lat='39.96125549401' lon='116.37558913483' />
+  <node id='-2604' action='modify' visible='true' lat='39.96125549401' lon='116.37521818487' />
+  <node id='-2602' action='modify' visible='true' lat='39.96125549401' lon='116.37500919898' />
+  <node id='-2600' action='modify' visible='true' lat='39.96125148943' lon='116.37482111168' />
+  <node id='-2598' action='modify' visible='true' lat='39.96124748485' lon='116.37443448778' />
+  <node id='-2596' action='modify' visible='true' lat='39.96124348027' lon='116.37427774837' />
+  <node id='-2594' action='modify' visible='true' lat='39.96017522' lon='116.37693676757' />
+  <node id='-2592' action='modify' visible='true' lat='39.9604668857' lon='116.37693676757' />
+  <node id='-2590' action='modify' visible='true' lat='39.96061130224' lon='116.37688874058' />
+  <node id='-2588' action='modify' visible='true' lat='39.96075855015' lon='116.37694415633' />
+  <node id='-2586' action='modify' visible='true' lat='39.96105304504' lon='116.37694785072' />
+  <node id='-2584' action='modify' visible='true' lat='39.96104738169' lon='116.37682963045' />
+  <node id='-2582' action='modify' visible='true' lat='39.96075855015' lon='116.37683332483' />
+  <node id='-2580' action='modify' visible='true' lat='39.96060847054' lon='116.37682963045' />
+  <node id='-2578' action='modify' visible='true' lat='39.9604725491' lon='116.37682593606' />
+  <node id='-2576' action='modify' visible='true' lat='39.96016955657' lon='116.37682593606' />
+  <node id='-2574' action='modify' visible='true' lat='39.95973492906' lon='116.37688856039' />
+  <node id='-2572' action='modify' visible='true' lat='39.95988501059' lon='116.37694582334' />
+  <node id='-2570' action='modify' visible='true' lat='39.95988642646' lon='116.37682945026' />
+  <node id='-2568' action='modify' visible='true' lat='39.95973634493' lon='116.37683129745' />
+  <node id='-2566' action='modify' visible='true' lat='39.95959192654' lon='116.37683683903' />
+  <node id='-2564' action='modify' visible='true' lat='39.95959192654' lon='116.3769550593' />
+  <node id='-2562' action='modify' visible='true' lat='39.95992158303' lon='116.3743837156' />
+  <node id='-2560' action='modify' visible='true' lat='39.95983379958' lon='116.37437632683' />
+  <node id='-2558' action='modify' visible='true' lat='39.95992158303' lon='116.37423963464' />
+  <node id='-2556' action='modify' visible='true' lat='39.95983663131' lon='116.37423963464' />
+  <node id='-2554' action='modify' visible='true' lat='39.95974601602' lon='116.37416574697' />
+  <node id='-2552' action='modify' visible='true' lat='39.95974601602' lon='116.37426180094' />
+  <node id='-2550' action='modify' visible='true' lat='39.95965256888' lon='116.37416944135' />
+  <node id='-2548' action='modify' visible='true' lat='39.95964690541' lon='116.37426180094' />
+  <node id='-2546' action='modify' visible='true' lat='39.95962991501' lon='116.37662620639' />
+  <node id='-2544' action='modify' visible='true' lat='39.95962708327' lon='116.37654862434' />
+  <node id='-2542' action='modify' visible='true' lat='39.95974035256' lon='116.37661512324' />
+  <node id='-2540' action='modify' visible='true' lat='39.95973752083' lon='116.37654123557' />
+  <node id='-2538' action='modify' visible='true' lat='39.95992158303' lon='116.37654123557' />
+  <node id='-2536' action='modify' visible='true' lat='39.95983096786' lon='116.37654862434' />
+  <node id='-2534' action='modify' visible='true' lat='39.95991875131' lon='116.37641562653' />
+  <node id='-2532' action='modify' visible='true' lat='39.95983946304' lon='116.37641932091' />
+  <node id='-2530' action='modify' visible='true' lat='39.96074040314' lon='116.37427844593' />
+  <node id='-2528' action='modify' visible='true' lat='39.96074323483' lon='116.37437080552' />
+  <node id='-2526' action='modify' visible='true' lat='39.96085367058' lon='116.37428583469' />
+  <node id='-2524' action='modify' visible='true' lat='39.9608508389' lon='116.37438558305' />
+  <node id='-2522' action='modify' visible='true' lat='39.96102640308' lon='116.37438188867' />
+  <node id='-2520' action='modify' visible='true' lat='39.96094994776' lon='116.3743744999' />
+  <node id='-2518' action='modify' visible='true' lat='39.96102640308' lon='116.37448902579' />
+  <node id='-2516' action='modify' visible='true' lat='39.96094711608' lon='116.37449641455' />
+  <node id='-2514' action='modify' visible='true' lat='39.96103221884' lon='116.37463695493' />
+  <node id='-2512' action='modify' visible='true' lat='39.96095212689' lon='116.37464217957' />
+  <node id='-2510' action='modify' visible='true' lat='39.96103221884' lon='116.37616255193' />
+  <node id='-2508' action='modify' visible='true' lat='39.96095212689' lon='116.37616255193' />
+  <node id='-2506' action='modify' visible='true' lat='39.96102420965' lon='116.37627749417' />
+  <node id='-2504' action='modify' visible='true' lat='39.96094011309' lon='116.37628271882' />
+  <node id='-2502' action='modify' visible='true' lat='39.96074388738' lon='116.3765126033' />
+  <node id='-2500' action='modify' visible='true' lat='39.96074388738' lon='116.37643423359' />
+  <node id='-2498' action='modify' visible='true' lat='39.96085201182' lon='116.37651782794' />
+  <node id='-2496' action='modify' visible='true' lat='39.96084400261' lon='116.37642378429' />
+  <node id='-2494' action='modify' visible='true' lat='39.96094812229' lon='116.3765126033' />
+  <node id='-2492' action='modify' visible='true' lat='39.96094411769' lon='116.376413335' />
+  <node id='-2490' action='modify' visible='true' lat='39.96087121139' lon='116.37541021059' />
+  <node id='-2488' action='modify' visible='true' lat='39.96051480066' lon='116.37608419009' />
+  <node id='-2486' action='modify' visible='true' lat='39.9605067914' lon='116.37600582038' />
+  <node id='-2484' action='modify' visible='true' lat='39.96051880528' lon='116.37593267532' />
+  <node id='-2482' action='modify' visible='true' lat='39.96052280991' lon='116.37584385631' />
+  <node id='-2480' action='modify' visible='true' lat='39.96051480066' lon='116.37494521698' />
+  <node id='-2478' action='modify' visible='true' lat='39.96051480066' lon='116.37487207192' />
+  <node id='-2476' action='modify' visible='true' lat='39.96053081916' lon='116.37478325292' />
+  <node id='-2474' action='modify' visible='true' lat='39.96051079603' lon='116.37470488321' />
+  <node id='-2472' action='modify' visible='true' lat='39.9601558481' lon='116.37492830172' />
+  <node id='-2470' action='modify' visible='true' lat='39.96016385739' lon='116.37509549043' />
+  <node id='-2468' action='modify' visible='true' lat='39.96016385739' lon='116.37530447632' />
+  <node id='-2466' action='modify' visible='true' lat='39.96017186669' lon='116.37548733897' />
+  <node id='-2464' action='modify' visible='true' lat='39.96017186669' lon='116.37579036852' />
+  <node id='-2462' action='modify' visible='true' lat='39.96038010794' lon='116.37473498977' />
+  <node id='-2460' action='modify' visible='true' lat='39.96019188991' lon='116.37472976512' />
+  <node id='-2458' action='modify' visible='true' lat='39.96000367137' lon='116.37472976512' />
+  <node id='-2456' action='modify' visible='true' lat='39.95999940771' lon='116.37484973367' />
+  <node id='-2454' action='modify' visible='true' lat='39.95999966671' lon='116.37519475873' />
+  <node id='-2452' action='modify' visible='true' lat='39.95999566206' lon='116.37557615798' />
+  <node id='-2450' action='modify' visible='true' lat='39.96000460065' lon='116.37590136972' />
+  <node id='-2448' action='modify' visible='true' lat='39.96001568533' lon='116.37605160088' />
+  <node id='-2446' action='modify' visible='true' lat='39.96018588525' lon='116.37604528313' />
+  <node id='-2444' action='modify' visible='true' lat='39.9603640894' lon='116.37604637623' />
+  <node id='-2442' action='modify' visible='true' lat='39.9603640894' lon='116.37594188329' />
+  <node id='-2440' action='modify' visible='true' lat='39.9603640894' lon='116.37559705657' />
+  <node id='-2438' action='modify' visible='true' lat='39.9603640894' lon='116.37520520802' />
+  <node id='-2436' action='modify' visible='true' lat='39.9603640894' lon='116.37484993201' />
+  <node id='-2434' action='modify' visible='true' lat='39.96017186669' lon='116.37441628628' />
+  <node id='-2432' action='modify' visible='true' lat='39.96018388062' lon='116.37638075366' />
+  <node id='-2430' action='modify' visible='true' lat='39.96016385739' lon='116.3744842067' />
+  <node id='-2428' action='modify' visible='true' lat='39.96018788527' lon='116.37629193465' />
+  <node id='-2426' action='modify' visible='true' lat='39.95994760617' lon='116.37496487425' />
+  <node id='-2424' action='modify' visible='true' lat='39.95994760617' lon='116.37577991922' />
+  <node id='-2422' action='modify' visible='true' lat='39.95994760617' lon='116.37536194744' />
+  <node id='-2420' action='modify' visible='true' lat='39.95994760617' lon='116.37612474594' />
+  <node id='-2418' action='modify' visible='true' lat='39.95994760617' lon='116.37460959823' />
+  <node id='-2416' action='modify' visible='true' lat='39.95919754741' lon='116.37406364783' />
+  <node id='-2414' action='modify' visible='true' lat='39.95919754741' lon='116.37680392049' />
+  <node id='-2412' action='modify' visible='true' lat='39.95919754741' lon='116.37493831051' />
+  <node id='-2410' action='modify' visible='true' lat='39.95901928237' lon='116.37493831051' />
+  <node id='-2408' action='modify' visible='true' lat='39.95919754741' lon='116.37508493026' />
+  <node id='-2406' action='modify' visible='true' lat='39.95903090836' lon='116.37508493026' />
+  <node id='-2404' action='modify' visible='true' lat='39.95919754741' lon='116.37568657684' />
+  <node id='-2402' action='modify' visible='true' lat='39.95902703303' lon='116.37568657684' />
+  <node id='-2400' action='modify' visible='true' lat='39.95919754741' lon='116.37584836416' />
+  <node id='-2398' action='modify' visible='true' lat='39.95903865902' lon='116.37585342001' />
+  <node id='-2396' action='modify' visible='true' lat='39.95895340169' lon='116.37461473588' />
+  <node id='-2394' action='modify' visible='true' lat='39.95919754741' lon='116.37461473588' />
+  <node id='-2392' action='modify' visible='true' lat='39.95896115236' lon='116.37616688294' />
+  <node id='-2390' action='modify' visible='true' lat='39.95919754741' lon='116.37616688294' />
+  <node id='-2388' action='modify' visible='true' lat='39.95896115236' lon='116.37538322563' />
+  <node id='-2386' action='modify' visible='true' lat='39.95919754741' lon='116.37538322563' />
+  <node id='-2384' action='modify' visible='true' lat='39.95902703303' lon='116.37616688294' />
+  <node id='-2382' action='modify' visible='true' lat='39.95902703303' lon='116.37654607196' />
+  <node id='-2380' action='modify' visible='true' lat='39.95912004093' lon='116.37616688294' />
+  <node id='-2378' action='modify' visible='true' lat='39.95916057196' lon='116.37656895243' />
+  <node id='-2376' action='modify' visible='true' lat='39.95911999254' lon='116.37585083197' />
+  <node id='-2374' action='modify' visible='true' lat='39.95912004093' lon='116.37568657684' />
+  <node id='-2372' action='modify' visible='true' lat='39.95912004093' lon='116.37538322563' />
+  <node id='-2370' action='modify' visible='true' lat='39.95912004093' lon='116.37508493026' />
+  <node id='-2368' action='modify' visible='true' lat='39.95912004093' lon='116.37493831051' />
+  <node id='-2366' action='modify' visible='true' lat='39.95912004093' lon='116.37461473588' />
+  <node id='-2364' action='modify' visible='true' lat='39.95916570352' lon='116.37422263904' />
+  <node id='-2362' action='modify' visible='true' lat='39.95901540703' lon='116.37461473588' />
+  <node id='-2360' action='modify' visible='true' lat='39.95901540703' lon='116.37424565856' />
+  <node id='-2358' action='modify' visible='true' lat='39.95915879418' lon='116.37387658125' />
+  <node id='-2356' action='modify' visible='true' lat='39.95906966166' lon='116.3738816371' />
+  <node id='-2354' action='modify' visible='true' lat='39.95915491885' lon='116.37688481415' />
+  <node id='-2352' action='modify' visible='true' lat='39.95905803568' lon='116.37689492586' />
+  <node id='-2350' action='modify' visible='true' lat='39.95919754741' lon='116.37658651879' />
+  <node id='-2348' action='modify' visible='true' lat='39.95919754741' lon='116.37420521173' />
+  <node id='-2346' action='modify' visible='true' lat='39.95927837358' lon='116.37415895316' />
+  <node id='-2344' action='modify' visible='true' lat='39.95927837358' lon='116.37662572274' />
+  <node id='-2342' action='modify' visible='true' lat='39.95927837358' lon='116.37616096905' />
+  <node id='-2340' action='modify' visible='true' lat='39.95927837358' lon='116.3758392165' />
+  <node id='-2338' action='modify' visible='true' lat='39.95927837358' lon='116.37567476519' />
+  <node id='-2336' action='modify' visible='true' lat='39.95927837358' lon='116.37538876292' />
+  <node id='-2334' action='modify' visible='true' lat='39.95927837358' lon='116.37508131048' />
+  <node id='-2332' action='modify' visible='true' lat='39.95927837358' lon='116.37493830935' />
+  <node id='-2330' action='modify' visible='true' lat='39.95927837358' lon='116.37461655679' />
+  <node id='-2328' action='modify' visible='true' lat='39.95927837358' lon='116.37641837109' />
+  <node id='-2326' action='modify' visible='true' lat='39.95939346454' lon='116.37641837109' />
+  <node id='-2324' action='modify' visible='true' lat='39.95927837358' lon='116.37626106984' />
+  <node id='-2322' action='modify' visible='true' lat='39.95938798402' lon='116.3762682199' />
+  <node id='-2320' action='modify' visible='true' lat='39.95927837358' lon='116.37435200469' />
+  <node id='-2318' action='modify' visible='true' lat='39.95936606194' lon='116.37435915475' />
+  <node id='-2316' action='modify' visible='true' lat='39.95927837358' lon='116.37450215588' />
+  <node id='-2314' action='modify' visible='true' lat='39.95937702298' lon='116.37450215588' />
+  <node id='-2312' action='modify' visible='true' lat='39.95971133379' lon='116.37462370685' />
+  <node id='-2310' action='modify' visible='true' lat='39.95971133379' lon='116.37615381899' />
+  <node id='-2308' action='modify' visible='true' lat='39.9593934461' lon='116.37615906871' />
+  <node id='-2306' action='modify' visible='true' lat='39.95947598745' lon='116.37615770559' />
+  <node id='-2304' action='modify' visible='true' lat='39.95947019173' lon='116.3762682199' />
+  <node id='-2302' action='modify' visible='true' lat='39.95956879432' lon='116.37615617295' />
+  <node id='-2300' action='modify' visible='true' lat='39.95956884086' lon='116.3762682199' />
+  <node id='-2298' action='modify' visible='true' lat='39.95936583981' lon='116.37461800124' />
+  <node id='-2296' action='modify' visible='true' lat='39.959470161' lon='116.37461972403' />
+  <node id='-2294' action='modify' visible='true' lat='39.95947019173' lon='116.37448785577' />
+  <node id='-2292' action='modify' visible='true' lat='39.95956872496' lon='116.37462135175' />
+  <node id='-2290' action='modify' visible='true' lat='39.95956884086' lon='116.37449500583' />
+  <node id='-2288' action='modify' visible='true' lat='39.95940442557' lon='116.3749955098' />
+  <node id='-2286' action='modify' visible='true' lat='39.9594153866' lon='116.37576771593' />
+  <node id='-2284' action='modify' visible='true' lat='39.95940976741' lon='116.37537184292' />
+  <node id='-2282' action='modify' visible='true' lat='39.95971545681' lon='116.3753668918' />
+  <node id='-2280' action='modify' visible='true' lat='39.95957209293' lon='116.3753692138' />
+  <node id='-2278' action='modify' visible='true' lat='39.95957068284' lon='116.37570562408' />
+  <node id='-2276' action='modify' visible='true' lat='39.95946356233' lon='116.37570563399' />
+  <node id='-2274' action='modify' visible='true' lat='39.95957006806' lon='116.37585229475' />
+  <node id='-2272' action='modify' visible='true' lat='39.95948293886' lon='116.3758573096' />
+  <node id='-2270' action='modify' visible='true' lat='39.95957019232' lon='116.37494718123' />
+  <node id='-2268' action='modify' visible='true' lat='39.95947518825' lon='116.37494220009' />
+  <node id='-2266' action='modify' visible='true' lat='39.95957078429' lon='116.37507862889' />
+  <node id='-2264' action='modify' visible='true' lat='39.95949068947' lon='116.37507870814' />
+  <node id='-2262' action='modify' visible='true' lat='39.95980458848' lon='116.37478546863' />
+  <node id='-2260' action='modify' visible='true' lat='39.95979683791' lon='116.37484108302' />
+  <node id='-2258' action='modify' visible='true' lat='39.95980071319' lon='116.37600392935' />
+  <node id='-2256' action='modify' visible='true' lat='39.95980071319' lon='116.37592809155' />
+  <node id='-2254' action='modify' visible='true' lat='39.95983171549' lon='116.37612021398' />
+  <node id='-2252' action='modify' visible='true' lat='39.95983171549' lon='116.37627188959' />
+  <node id='-2250' action='modify' visible='true' lat='39.9598278402' lon='116.37465401644' />
+  <node id='-2248' action='modify' visible='true' lat='39.95983171549' lon='116.37451750839' />
+  <node id='-2246' action='modify' visible='true' lat='39.95971385791' lon='116.37507868664' />
+  <node id='-2244' action='modify' visible='true' lat='39.95971310064' lon='116.37494218575' />
+  <node id='-2242' action='modify' visible='true' lat='39.95971370876' lon='116.37570052799' />
+  <node id='-2240' action='modify' visible='true' lat='39.95971286004' lon='116.37586251509' />
+  <node id='-2238' action='modify' visible='true' lat='39.95971214703' lon='116.37477029573' />
+  <node id='-2236' action='modify' visible='true' lat='39.95971206612' lon='116.37601404538' />
+  <node id='-2234' action='modify' visible='true' lat='39.95940504909' lon='116.37515652337' />
+  <node id='-2232' action='modify' visible='true' lat='39.95941301296' lon='116.37560049231' />
+  <node id='-2230' action='modify' visible='true' lat='39.95940513415' lon='116.37511930095' />
+  <node id='-2228' action='modify' visible='true' lat='39.95941411815' lon='116.37566901353' />
+  <node id='-2226' action='modify' visible='true' lat='39.95914063558' lon='116.37659710036' />
+  <node id='-2224' action='modify' visible='true' lat='39.95913420208' lon='116.37419325553' />
+  <node id='-2222' action='modify' visible='true' lat='39.95983535124' lon='116.37465908765' />
+  <node id='-2220' action='modify' visible='true' lat='39.96015651055' lon='116.37485730106' />
+  <node id='-2218' action='modify' visible='true' lat='39.96015631615' lon='116.37485624305' />
+  <node id='-2216' action='modify' visible='true' lat='39.96015641768' lon='116.37485683268' />
+  <node id='-2214' action='modify' visible='true' lat='39.96015602441' lon='116.37485554759' />
+  <node id='-2212' action='modify' visible='true' lat='39.96016284449' lon='116.37516318391' />
+  <node id='-2210' action='modify' visible='true' lat='39.96016431606' lon='116.37525185215' />
+  <node id='-2208' action='modify' visible='true' lat='39.9601627955' lon='116.37516382664' />
+  <node id='-2206' action='modify' visible='true' lat='39.96016457925' lon='116.37525116457' />
+  <node id='-2204' action='modify' visible='true' lat='39.96016289473' lon='116.37516350574' />
+  <node id='-2202' action='modify' visible='true' lat='39.96016442721' lon='116.37525152357' />
+  <node id='-2200' action='modify' visible='true' lat='39.96016916183' lon='116.37554354175' />
+  <node id='-2198' action='modify' visible='true' lat='39.96016621746' lon='116.37563377175' />
+  <node id='-2196' action='modify' visible='true' lat='39.96016616536' lon='116.37563410465' />
+  <node id='-2194' action='modify' visible='true' lat='39.96016624979' lon='116.37563390032' />
+  <node id='-2192' action='modify' visible='true' lat='39.96016875257' lon='116.37554309776' />
+  <node id='-2190' action='modify' visible='true' lat='39.96016869425' lon='116.37554383121' />
+  <node id='-2188' action='modify' visible='true' lat='39.96017005578' lon='116.37593937076' />
+  <node id='-2186' action='modify' visible='true' lat='39.96017064357' lon='116.37593920162' />
+  <node id='-2184' action='modify' visible='true' lat='39.96017015738' lon='116.37593986328' />
+  <node id='-2182' action='modify' visible='true' lat='39.96017061747' lon='116.37593970381' />
+  <node id='-2180' action='modify' visible='true' lat='39.96016941721' lon='116.37442348471' />
+  <node id='-2178' action='modify' visible='true' lat='39.96092544687' lon='116.37540510587' />
+  <node id='-2176' action='modify' visible='true' lat='39.96092538858' lon='116.37540498169' />
+  <node id='-2174' action='modify' visible='true' lat='39.96018463858' lon='116.37636882973' />
+  <way id='-3632' action='modify' visible='true'>
+    <nd ref='-2432' />
+    <nd ref='-3631' />
+  </way>
+  <way id='-3618' action='modify' visible='true'>
+    <nd ref='-2568' />
+    <nd ref='-2614' />
+    <nd ref='-2566' />
+  </way>
+  <way id='-3616' action='modify' visible='true'>
+    <nd ref='-2578' />
+    <nd ref='-2614' />
+    <nd ref='-2718' />
+  </way>
+  <way id='-3614' action='modify' visible='true'>
+    <nd ref='-2614' />
+    <nd ref='-2580' />
+  </way>
+  <way id='-3612' action='modify' visible='true'>
+    <nd ref='-2614' />
+    <nd ref='-2582' />
+  </way>
+  <way id='-3610' action='modify' visible='true'>
+    <nd ref='-2614' />
+    <nd ref='-2584' />
+  </way>
+  <way id='-3608' action='modify' visible='true'>
+    <nd ref='-2596' />
+    <nd ref='-2660' />
+  </way>
+  <way id='-3606' action='modify' visible='true'>
+    <nd ref='-2596' />
+    <nd ref='-2658' />
+  </way>
+  <way id='-3604' action='modify' visible='true'>
+    <nd ref='-2596' />
+    <nd ref='-2716' />
+  </way>
+  <way id='-3602' action='modify' visible='true'>
+    <nd ref='-2596' />
+    <nd ref='-2654' />
+  </way>
+  <way id='-3600' action='modify' visible='true'>
+    <nd ref='-2652' />
+    <nd ref='-2596' />
+  </way>
+  <way id='-3598' action='modify' visible='true'>
+    <nd ref='-2614' />
+    <nd ref='-2646' />
+  </way>
+  <way id='-3596' action='modify' visible='true'>
+    <nd ref='-2610' />
+    <nd ref='-2646' />
+    <nd ref='-2612' />
+  </way>
+  <way id='-3594' action='modify' visible='true'>
+    <nd ref='-2606' />
+    <nd ref='-2646' />
+    <nd ref='-2608' />
+  </way>
+  <way id='-3592' action='modify' visible='true'>
+    <nd ref='-2602' />
+    <nd ref='-2646' />
+    <nd ref='-2604' />
+  </way>
+  <way id='-3590' action='modify' visible='true'>
+    <nd ref='-2598' />
+    <nd ref='-2646' />
+    <nd ref='-2600' />
+  </way>
+  <way id='-3588' action='modify' visible='true'>
+    <nd ref='-2646' />
+    <nd ref='-2596' />
+  </way>
+  <way id='-3586' action='modify' visible='true'>
+    <nd ref='-2612' />
+    <nd ref='-2522' />
+    <nd ref='-2614' />
+  </way>
+  <way id='-3584' action='modify' visible='true'>
+    <nd ref='-2608' />
+    <nd ref='-2522' />
+    <nd ref='-2610' />
+  </way>
+  <way id='-3582' action='modify' visible='true'>
+    <nd ref='-2604' />
+    <nd ref='-2522' />
+    <nd ref='-2606' />
+  </way>
+  <way id='-3580' action='modify' visible='true'>
+    <nd ref='-2600' />
+    <nd ref='-2522' />
+    <nd ref='-2602' />
+  </way>
+  <way id='-3578' action='modify' visible='true'>
+    <nd ref='-2522' />
+    <nd ref='-2596' />
+  </way>
+  <way id='-3576' action='modify' visible='true'>
+    <nd ref='-2614' />
+    <nd ref='-2522' />
+  </way>
+  <way id='-3574' action='modify' visible='true'>
+    <nd ref='-2610' />
+    <nd ref='-2522' />
+    <nd ref='-2612' />
+  </way>
+  <way id='-3572' action='modify' visible='true'>
+    <nd ref='-2606' />
+    <nd ref='-2522' />
+    <nd ref='-2608' />
+  </way>
+  <way id='-3570' action='modify' visible='true'>
+    <nd ref='-2602' />
+    <nd ref='-2522' />
+    <nd ref='-2604' />
+  </way>
+  <way id='-3568' action='modify' visible='true'>
+    <nd ref='-2598' />
+    <nd ref='-2522' />
+    <nd ref='-2600' />
+  </way>
+  <way id='-3566' action='modify' visible='true'>
+    <nd ref='-2522' />
+    <nd ref='-2596' />
+  </way>
+  <way id='-3564' action='modify' visible='true'>
+    <nd ref='-2614' />
+    <nd ref='-2518' />
+  </way>
+  <way id='-3562' action='modify' visible='true'>
+    <nd ref='-2610' />
+    <nd ref='-2518' />
+    <nd ref='-2612' />
+  </way>
+  <way id='-3560' action='modify' visible='true'>
+    <nd ref='-2606' />
+    <nd ref='-2518' />
+    <nd ref='-2608' />
+  </way>
+  <way id='-3558' action='modify' visible='true'>
+    <nd ref='-2602' />
+    <nd ref='-2518' />
+    <nd ref='-2604' />
+  </way>
+  <way id='-3556' action='modify' visible='true'>
+    <nd ref='-2598' />
+    <nd ref='-2518' />
+    <nd ref='-2600' />
+  </way>
+  <way id='-3554' action='modify' visible='true'>
+    <nd ref='-2518' />
+    <nd ref='-2596' />
+  </way>
+  <way id='-3552' action='modify' visible='true'>
+    <nd ref='-2648' />
+    <nd ref='-2514' />
+  </way>
+  <way id='-3550' action='modify' visible='true'>
+    <nd ref='-2514' />
+    <nd ref='-2596' />
+  </way>
+  <way id='-3548' action='modify' visible='true'>
+    <nd ref='-2600' />
+    <nd ref='-2514' />
+    <nd ref='-2598' />
+  </way>
+  <way id='-3546' action='modify' visible='true'>
+    <nd ref='-2604' />
+    <nd ref='-2514' />
+    <nd ref='-2602' />
+  </way>
+  <way id='-3544' action='modify' visible='true'>
+    <nd ref='-2608' />
+    <nd ref='-2514' />
+    <nd ref='-2606' />
+  </way>
+  <way id='-3542' action='modify' visible='true'>
+    <nd ref='-2612' />
+    <nd ref='-2514' />
+    <nd ref='-2610' />
+  </way>
+  <way id='-3540' action='modify' visible='true'>
+    <nd ref='-2714' />
+    <nd ref='-2648' />
+  </way>
+  <way id='-3538' action='modify' visible='true'>
+    <nd ref='-2598' />
+    <nd ref='-2714' />
+    <nd ref='-2596' />
+  </way>
+  <way id='-3536' action='modify' visible='true'>
+    <nd ref='-2714' />
+    <nd ref='-2600' />
+  </way>
+  <way id='-3534' action='modify' visible='true'>
+    <nd ref='-2714' />
+    <nd ref='-2602' />
+  </way>
+  <way id='-3532' action='modify' visible='true'>
+    <nd ref='-2604' />
+    <nd ref='-2714' />
+  </way>
+  <way id='-3530' action='modify' visible='true'>
+    <nd ref='-2714' />
+    <nd ref='-2606' />
+  </way>
+  <way id='-3528' action='modify' visible='true'>
+    <nd ref='-2608' />
+    <nd ref='-2714' />
+  </way>
+  <way id='-3526' action='modify' visible='true'>
+    <nd ref='-2610' />
+    <nd ref='-2714' />
+  </way>
+  <way id='-3524' action='modify' visible='true'>
+    <nd ref='-2612' />
+    <nd ref='-2714' />
+  </way>
+  <way id='-3522' action='modify' visible='true'>
+    <nd ref='-2714' />
+    <nd ref='-2614' />
+  </way>
+  <way id='-3520' action='modify' visible='true'>
+    <nd ref='-2596' />
+    <nd ref='-2510' />
+    <nd ref='-2598' />
+  </way>
+  <way id='-3518' action='modify' visible='true'>
+    <nd ref='-2600' />
+    <nd ref='-2510' />
+    <nd ref='-2602' />
+  </way>
+  <way id='-3516' action='modify' visible='true'>
+    <nd ref='-2604' />
+    <nd ref='-2510' />
+    <nd ref='-2606' />
+  </way>
+  <way id='-3514' action='modify' visible='true'>
+    <nd ref='-2608' />
+    <nd ref='-2510' />
+    <nd ref='-2610' />
+  </way>
+  <way id='-3512' action='modify' visible='true'>
+    <nd ref='-2612' />
+    <nd ref='-2510' />
+    <nd ref='-2614' />
+  </way>
+  <way id='-3510' action='modify' visible='true'>
+    <nd ref='-2596' />
+    <nd ref='-2506' />
+    <nd ref='-2598' />
+  </way>
+  <way id='-3508' action='modify' visible='true'>
+    <nd ref='-2600' />
+    <nd ref='-2506' />
+    <nd ref='-2602' />
+  </way>
+  <way id='-3506' action='modify' visible='true'>
+    <nd ref='-2604' />
+    <nd ref='-2506' />
+    <nd ref='-2606' />
+  </way>
+  <way id='-3504' action='modify' visible='true'>
+    <nd ref='-2608' />
+    <nd ref='-2506' />
+    <nd ref='-2610' />
+  </way>
+  <way id='-3502' action='modify' visible='true'>
+    <nd ref='-2694' />
+    <nd ref='-2506' />
+    <nd ref='-2612' />
+  </way>
+  <way id='-3500' action='modify' visible='true'>
+    <nd ref='-2640' />
+    <nd ref='-2596' />
+  </way>
+  <way id='-3498' action='modify' visible='true'>
+    <nd ref='-2600' />
+    <nd ref='-2640' />
+    <nd ref='-2602' />
+  </way>
+  <way id='-3496' action='modify' visible='true'>
+    <nd ref='-2604' />
+    <nd ref='-2640' />
+    <nd ref='-2606' />
+  </way>
+  <way id='-3494' action='modify' visible='true'>
+    <nd ref='-2608' />
+    <nd ref='-2640' />
+    <nd ref='-2610' />
+  </way>
+  <way id='-3492' action='modify' visible='true'>
+    <nd ref='-2612' />
+    <nd ref='-2640' />
+    <nd ref='-2614' />
+  </way>
+  <way id='-3490' action='modify' visible='true'>
+    <nd ref='-2642' />
+    <nd ref='-2596' />
+  </way>
+  <way id='-3488' action='modify' visible='true'>
+    <nd ref='-2598' />
+    <nd ref='-2642' />
+    <nd ref='-2600' />
+  </way>
+  <way id='-3486' action='modify' visible='true'>
+    <nd ref='-2602' />
+    <nd ref='-2642' />
+    <nd ref='-2604' />
+  </way>
+  <way id='-3484' action='modify' visible='true'>
+    <nd ref='-2606' />
+    <nd ref='-2642' />
+    <nd ref='-2608' />
+  </way>
+  <way id='-3482' action='modify' visible='true'>
+    <nd ref='-2610' />
+    <nd ref='-2642' />
+    <nd ref='-2612' />
+  </way>
+  <way id='-3480' action='modify' visible='true'>
+    <nd ref='-2584' />
+    <nd ref='-2596' />
+  </way>
+  <way id='-3478' action='modify' visible='true'>
+    <nd ref='-2584' />
+    <nd ref='-2598' />
+  </way>
+  <way id='-3476' action='modify' visible='true'>
+    <nd ref='-2584' />
+    <nd ref='-2600' />
+  </way>
+  <way id='-3474' action='modify' visible='true'>
+    <nd ref='-2584' />
+    <nd ref='-2602' />
+  </way>
+  <way id='-3472' action='modify' visible='true'>
+    <nd ref='-2584' />
+    <nd ref='-2604' />
+  </way>
+  <way id='-3470' action='modify' visible='true'>
+    <nd ref='-2584' />
+    <nd ref='-2606' />
+  </way>
+  <way id='-3468' action='modify' visible='true'>
+    <nd ref='-2584' />
+    <nd ref='-2606' />
+  </way>
+  <way id='-3466' action='modify' visible='true'>
+    <nd ref='-2584' />
+    <nd ref='-2608' />
+  </way>
+  <way id='-3464' action='modify' visible='true'>
+    <nd ref='-2584' />
+    <nd ref='-2610' />
+  </way>
+  <way id='-3462' action='modify' visible='true'>
+    <nd ref='-2584' />
+    <nd ref='-2612' />
+  </way>
+  <way id='-3460' action='modify' visible='true'>
+    <nd ref='-2694' />
+    <nd ref='-2432' />
+  </way>
+  <way id='-3458' action='modify' visible='true'>
+    <nd ref='-2584' />
+    <nd ref='-2432' />
+  </way>
+  <way id='-3456' action='modify' visible='true'>
+    <nd ref='-2432' />
+    <nd ref='-2582' />
+  </way>
+  <way id='-3454' action='modify' visible='true'>
+    <nd ref='-2432' />
+    <nd ref='-2580' />
+  </way>
+  <way id='-3452' action='modify' visible='true'>
+    <nd ref='-2432' />
+    <nd ref='-2578' />
+  </way>
+  <way id='-3450' action='modify' visible='true'>
+    <nd ref='-2432' />
+    <nd ref='-2718' />
+    <nd ref='-2576' />
+  </way>
+  <way id='-3448' action='modify' visible='true'>
+    <nd ref='-2432' />
+    <nd ref='-2570' />
+  </way>
+  <way id='-3446' action='modify' visible='true'>
+    <nd ref='-2432' />
+    <nd ref='-2566' />
+  </way>
+  <way id='-3444' action='modify' visible='true'>
+    <nd ref='-2432' />
+    <nd ref='-2570' />
+  </way>
+  <way id='-3442' action='modify' visible='true'>
+    <nd ref='-2432' />
+    <nd ref='-2708' />
+  </way>
+  <way id='-3440' action='modify' visible='true'>
+    <nd ref='-2432' />
+    <nd ref='-2538' />
+  </way>
+  <way id='-3438' action='modify' visible='true'>
+    <nd ref='-2432' />
+    <nd ref='-2534' />
+  </way>
+  <way id='-3436' action='modify' visible='true'>
+    <nd ref='-2432' />
+    <nd ref='-2502' />
+  </way>
+  <way id='-3434' action='modify' visible='true'>
+    <nd ref='-2596' />
+    <nd ref='-2650' />
+  </way>
+  <way id='-3432' action='modify' visible='true'>
+    <nd ref='-2584' />
+    <nd ref='-2614' />
+  </way>
+  <way id='-3430' action='modify' visible='true'>
+    <nd ref='-2694' />
+    <nd ref='-2712' />
+    <nd ref='-2584' />
+  </way>
+  <way id='-3428' action='modify' visible='true'>
+    <nd ref='-2582' />
+    <nd ref='-2712' />
+    <nd ref='-2580' />
+  </way>
+  <way id='-3426' action='modify' visible='true'>
+    <nd ref='-2578' />
+    <nd ref='-2712' />
+    <nd ref='-2718' />
+    <nd ref='-2576' />
+  </way>
+  <way id='-3424' action='modify' visible='true'>
+    <nd ref='-2570' />
+    <nd ref='-2712' />
+    <nd ref='-2568' />
+  </way>
+  <way id='-3422' action='modify' visible='true'>
+    <nd ref='-2584' />
+    <nd ref='-2538' />
+  </way>
+  <way id='-3420' action='modify' visible='true'>
+    <nd ref='-2538' />
+    <nd ref='-2582' />
+  </way>
+  <way id='-3418' action='modify' visible='true'>
+    <nd ref='-2538' />
+    <nd ref='-2580' />
+  </way>
+  <way id='-3416' action='modify' visible='true'>
+    <nd ref='-2538' />
+    <nd ref='-2578' />
+  </way>
+  <way id='-3414' action='modify' visible='true'>
+    <nd ref='-2538' />
+    <nd ref='-2718' />
+    <nd ref='-2576' />
+  </way>
+  <way id='-3412' action='modify' visible='true'>
+    <nd ref='-2538' />
+    <nd ref='-2570' />
+  </way>
+  <way id='-3410' action='modify' visible='true'>
+    <nd ref='-2538' />
+    <nd ref='-2568' />
+  </way>
+  <way id='-3408' action='modify' visible='true'>
+    <nd ref='-2538' />
+    <nd ref='-2566' />
+  </way>
+  <way id='-3406' action='modify' visible='true'>
+    <nd ref='-2502' />
+    <nd ref='-2712' />
+    <nd ref='-2566' />
+  </way>
+  <way id='-3404' action='modify' visible='true'>
+    <nd ref='-2708' />
+    <nd ref='-2712' />
+    <nd ref='-2538' />
+  </way>
+  <way id='-3402' action='modify' visible='true'>
+    <nd ref='-2534' />
+    <nd ref='-2712' />
+    <nd ref='-2432' />
+  </way>
+  <way id='-3400' action='modify' visible='true'>
+    <nd ref='-2558' />
+    <nd ref='-2530' />
+  </way>
+  <way id='-3398' action='modify' visible='true'>
+    <nd ref='-2694' />
+    <nd ref='-2706' />
+  </way>
+  <way id='-3396' action='modify' visible='true'>
+    <nd ref='-2584' />
+    <nd ref='-2706' />
+    <nd ref='-2582' />
+  </way>
+  <way id='-3394' action='modify' visible='true'>
+    <nd ref='-2578' />
+    <nd ref='-2706' />
+    <nd ref='-2718' />
+    <nd ref='-2576' />
+  </way>
+  <way id='-3392' action='modify' visible='true'>
+    <nd ref='-2570' />
+    <nd ref='-2706' />
+    <nd ref='-2568' />
+  </way>
+  <way id='-3390' action='modify' visible='true'>
+    <nd ref='-2694' />
+    <nd ref='-2542' />
+  </way>
+  <way id='-3388' action='modify' visible='true'>
+    <nd ref='-2542' />
+    <nd ref='-2584' />
+  </way>
+  <way id='-3386' action='modify' visible='true'>
+    <nd ref='-2542' />
+    <nd ref='-2582' />
+  </way>
+  <way id='-3384' action='modify' visible='true'>
+    <nd ref='-2542' />
+    <nd ref='-2580' />
+  </way>
+  <way id='-3382' action='modify' visible='true'>
+    <nd ref='-2542' />
+    <nd ref='-2578' />
+  </way>
+  <way id='-3380' action='modify' visible='true'>
+    <nd ref='-2542' />
+    <nd ref='-2718' />
+    <nd ref='-2576' />
+  </way>
+  <way id='-3378' action='modify' visible='true'>
+    <nd ref='-2542' />
+    <nd ref='-2570' />
+  </way>
+  <way id='-3376' action='modify' visible='true'>
+    <nd ref='-2542' />
+    <nd ref='-2568' />
+  </way>
+  <way id='-3374' action='modify' visible='true'>
+    <nd ref='-2542' />
+    <nd ref='-2566' />
+  </way>
+  <way id='-3372' action='modify' visible='true'>
+    <nd ref='-2542' />
+    <nd ref='-2704' />
+  </way>
+  <way id='-3370' action='modify' visible='true'>
+    <nd ref='-2694' />
+    <nd ref='-2546' />
+  </way>
+  <way id='-3368' action='modify' visible='true'>
+    <nd ref='-2584' />
+    <nd ref='-2546' />
+  </way>
+  <way id='-3366' action='modify' visible='true'>
+    <nd ref='-2582' />
+    <nd ref='-2546' />
+  </way>
+  <way id='-3364' action='modify' visible='true'>
+    <nd ref='-2546' />
+    <nd ref='-2580' />
+  </way>
+  <way id='-3362' action='modify' visible='true'>
+    <nd ref='-2578' />
+    <nd ref='-2546' />
+    <nd ref='-2718' />
+    <nd ref='-2576' />
+  </way>
+  <way id='-3360' action='modify' visible='true'>
+    <nd ref='-2570' />
+    <nd ref='-2546' />
+    <nd ref='-2568' />
+  </way>
+  <way id='-3358' action='modify' visible='true'>
+    <nd ref='-2502' />
+    <nd ref='-2704' />
+  </way>
+  <way id='-3356' action='modify' visible='true'>
+    <nd ref='-2502' />
+    <nd ref='-2566' />
+  </way>
+  <way id='-3354' action='modify' visible='true'>
+    <nd ref='-2502' />
+    <nd ref='-2568' />
+  </way>
+  <way id='-3352' action='modify' visible='true'>
+    <nd ref='-2502' />
+    <nd ref='-2570' />
+  </way>
+  <way id='-3350' action='modify' visible='true'>
+    <nd ref='-2502' />
+    <nd ref='-2576' />
+  </way>
+  <way id='-3348' action='modify' visible='true'>
+    <nd ref='-2502' />
+    <nd ref='-2578' />
+  </way>
+  <way id='-3346' action='modify' visible='true'>
+    <nd ref='-2502' />
+    <nd ref='-2580' />
+  </way>
+  <way id='-3344' action='modify' visible='true'>
+    <nd ref='-2502' />
+    <nd ref='-2582' />
+  </way>
+  <way id='-3342' action='modify' visible='true'>
+    <nd ref='-2502' />
+    <nd ref='-2584' />
+  </way>
+  <way id='-3340' action='modify' visible='true'>
+    <nd ref='-2502' />
+    <nd ref='-2694' />
+  </way>
+  <way id='-3338' action='modify' visible='true'>
+    <nd ref='-2566' />
+    <nd ref='-2498' />
+    <nd ref='-2568' />
+  </way>
+  <way id='-3336' action='modify' visible='true'>
+    <nd ref='-2570' />
+    <nd ref='-2498' />
+    <nd ref='-2576' />
+  </way>
+  <way id='-3334' action='modify' visible='true'>
+    <nd ref='-2580' />
+    <nd ref='-2498' />
+    <nd ref='-2578' />
+  </way>
+  <way id='-3332' action='modify' visible='true'>
+    <nd ref='-2582' />
+    <nd ref='-2498' />
+    <nd ref='-2584' />
+  </way>
+  <way id='-3330' action='modify' visible='true'>
+    <nd ref='-2566' />
+    <nd ref='-2494' />
+  </way>
+  <way id='-3328' action='modify' visible='true'>
+    <nd ref='-2566' />
+    <nd ref='-2494' />
+    <nd ref='-2570' />
+  </way>
+  <way id='-3326' action='modify' visible='true'>
+    <nd ref='-2576' />
+    <nd ref='-2494' />
+    <nd ref='-2578' />
+  </way>
+  <way id='-3324' action='modify' visible='true'>
+    <nd ref='-2578' />
+    <nd ref='-2494' />
+    <nd ref='-2580' />
+  </way>
+  <way id='-3322' action='modify' visible='true'>
+    <nd ref='-2582' />
+    <nd ref='-2494' />
+    <nd ref='-2584' />
+  </way>
+  <way id='-3320' action='modify' visible='true'>
+    <nd ref='-2566' />
+    <nd ref='-2642' />
+    <nd ref='-2568' />
+  </way>
+  <way id='-3318' action='modify' visible='true'>
+    <nd ref='-2570' />
+    <nd ref='-2642' />
+    <nd ref='-2576' />
+  </way>
+  <way id='-3316' action='modify' visible='true'>
+    <nd ref='-2578' />
+    <nd ref='-2642' />
+    <nd ref='-2580' />
+  </way>
+  <way id='-3314' action='modify' visible='true'>
+    <nd ref='-2582' />
+    <nd ref='-2642' />
+    <nd ref='-2584' />
+  </way>
+  <way id='-3312' action='modify' visible='true'>
+    <nd ref='-2694' />
+    <nd ref='-2642' />
+    <nd ref='-2614' />
+  </way>
+  <way id='-3310' action='modify' visible='true'>
+    <nd ref='-3629' />
+    <nd ref='-2434' />
+    <nd ref='-2710' />
+    <nd ref='-2562' />
+  </way>
+  <way id='-3308' action='modify' visible='true'>
+    <nd ref='-2558' />
+    <nd ref='-2434' />
+    <nd ref='-2700' />
+  </way>
+  <way id='-3306' action='modify' visible='true'>
+    <nd ref='-2666' />
+    <nd ref='-2434' />
+    <nd ref='-2664' />
+  </way>
+  <way id='-3304' action='modify' visible='true'>
+    <nd ref='-2662' />
+    <nd ref='-2434' />
+    <nd ref='-2660' />
+  </way>
+  <way id='-3302' action='modify' visible='true'>
+    <nd ref='-2658' />
+    <nd ref='-2434' />
+    <nd ref='-2716' />
+    <nd ref='-2656' />
+  </way>
+  <way id='-3300' action='modify' visible='true'>
+    <nd ref='-2654' />
+    <nd ref='-2434' />
+    <nd ref='-2652' />
+  </way>
+  <way id='-3298' action='modify' visible='true'>
+    <nd ref='-2650' />
+    <nd ref='-2434' />
+    <nd ref='-2648' />
+  </way>
+  <way id='-3296' action='modify' visible='true'>
+    <nd ref='-2650' />
+    <nd ref='-2554' />
+  </way>
+  <way id='-3294' action='modify' visible='true'>
+    <nd ref='-2554' />
+    <nd ref='-2652' />
+  </way>
+  <way id='-3292' action='modify' visible='true'>
+    <nd ref='-2554' />
+    <nd ref='-2716' />
+    <nd ref='-2656' />
+  </way>
+  <way id='-3290' action='modify' visible='true'>
+    <nd ref='-2666' />
+    <nd ref='-2530' />
+  </way>
+  <way id='-3288' action='modify' visible='true'>
+    <nd ref='-2662' />
+    <nd ref='-2530' />
+    <nd ref='-2664' />
+  </way>
+  <way id='-3286' action='modify' visible='true'>
+    <nd ref='-2662' />
+    <nd ref='-2530' />
+    <nd ref='-2660' />
+  </way>
+  <way id='-3284' action='modify' visible='true'>
+    <nd ref='-2658' />
+    <nd ref='-2530' />
+    <nd ref='-2656' />
+  </way>
+  <way id='-3282' action='modify' visible='true'>
+    <nd ref='-2654' />
+    <nd ref='-2530' />
+    <nd ref='-2652' />
+  </way>
+  <way id='-3280' action='modify' visible='true'>
+    <nd ref='-2648' />
+    <nd ref='-2530' />
+    <nd ref='-2650' />
+  </way>
+  <way id='-3278' action='modify' visible='true'>
+    <nd ref='-2666' />
+    <nd ref='-2526' />
+    <nd ref='-2664' />
+  </way>
+  <way id='-3276' action='modify' visible='true'>
+    <nd ref='-2660' />
+    <nd ref='-2526' />
+    <nd ref='-2658' />
+  </way>
+  <way id='-3274' action='modify' visible='true'>
+    <nd ref='-2656' />
+    <nd ref='-2526' />
+    <nd ref='-2654' />
+  </way>
+  <way id='-3272' action='modify' visible='true'>
+    <nd ref='-2652' />
+    <nd ref='-2526' />
+    <nd ref='-2650' />
+  </way>
+  <way id='-3270' action='modify' visible='true'>
+    <nd ref='-2644' />
+    <nd ref='-2664' />
+  </way>
+  <way id='-3268' action='modify' visible='true'>
+    <nd ref='-2666' />
+    <nd ref='-2644' />
+    <nd ref='-2662' />
+  </way>
+  <way id='-3266' action='modify' visible='true'>
+    <nd ref='-2660' />
+    <nd ref='-2644' />
+    <nd ref='-2658' />
+  </way>
+  <way id='-3264' action='modify' visible='true'>
+    <nd ref='-2656' />
+    <nd ref='-2644' />
+    <nd ref='-2654' />
+  </way>
+  <way id='-3262' action='modify' visible='true'>
+    <nd ref='-2652' />
+    <nd ref='-2644' />
+    <nd ref='-2650' />
+  </way>
+  <way id='-3260' action='modify' visible='true'>
+    <nd ref='-2666' />
+    <nd ref='-2646' />
+  </way>
+  <way id='-3258' action='modify' visible='true'>
+    <nd ref='-2664' />
+    <nd ref='-2646' />
+  </way>
+  <way id='-3256' action='modify' visible='true'>
+    <nd ref='-2662' />
+    <nd ref='-2646' />
+  </way>
+  <way id='-3254' action='modify' visible='true'>
+    <nd ref='-2646' />
+    <nd ref='-2660' />
+  </way>
+  <way id='-3252' action='modify' visible='true'>
+    <nd ref='-2648' />
+    <nd ref='-2644' />
+    <nd ref='-2520' />
+  </way>
+  <way id='-3250' action='modify' visible='true'>
+    <nd ref='-2658' />
+    <nd ref='-2646' />
+    <nd ref='-2656' />
+  </way>
+  <way id='-3248' action='modify' visible='true'>
+    <nd ref='-2654' />
+    <nd ref='-2646' />
+    <nd ref='-2652' />
+  </way>
+  <way id='-3246' action='modify' visible='true'>
+    <nd ref='-2650' />
+    <nd ref='-2646' />
+    <nd ref='-2648' />
+  </way>
+  <way id='-3244' action='modify' visible='true'>
+    <nd ref='-2648' />
+    <nd ref='-2562' />
+  </way>
+  <way id='-3242' action='modify' visible='true'>
+    <nd ref='-2562' />
+    <nd ref='-2650' />
+  </way>
+  <way id='-3240' action='modify' visible='true'>
+    <nd ref='-2652' />
+    <nd ref='-2562' />
+  </way>
+  <way id='-3238' action='modify' visible='true'>
+    <nd ref='-2654' />
+    <nd ref='-2562' />
+  </way>
+  <way id='-3236' action='modify' visible='true'>
+    <nd ref='-2656' />
+    <nd ref='-2716' />
+    <nd ref='-2562' />
+    <nd ref='-2658' />
+  </way>
+  <way id='-3234' action='modify' visible='true'>
+    <nd ref='-2648' />
+    <nd ref='-2558' />
+  </way>
+  <way id='-3232' action='modify' visible='true'>
+    <nd ref='-2700' />
+    <nd ref='-2652' />
+  </way>
+  <way id='-3230' action='modify' visible='true'>
+    <nd ref='-2700' />
+    <nd ref='-2654' />
+  </way>
+  <way id='-3228' action='modify' visible='true'>
+    <nd ref='-2700' />
+    <nd ref='-2716' />
+    <nd ref='-2656' />
+  </way>
+  <way id='-3226' action='modify' visible='true'>
+    <nd ref='-2700' />
+    <nd ref='-2658' />
+  </way>
+  <way id='-3224' action='modify' visible='true'>
+    <nd ref='-2660' />
+    <nd ref='-2670' />
+  </way>
+  <way id='-3222' action='modify' visible='true'>
+    <nd ref='-2550' />
+    <nd ref='-2660' />
+    <nd ref='-2554' />
+  </way>
+  <way id='-3220' action='modify' visible='true'>
+    <nd ref='-2668' />
+    <nd ref='-2662' />
+    <nd ref='-2670' />
+  </way>
+  <way id='-3218' action='modify' visible='true'>
+    <nd ref='-2550' />
+    <nd ref='-2662' />
+    <nd ref='-2554' />
+  </way>
+  <way id='-3216' action='modify' visible='true'>
+    <nd ref='-2700' />
+    <nd ref='-2664' />
+    <nd ref='-2554' />
+  </way>
+  <way id='-3214' action='modify' visible='true'>
+    <nd ref='-2700' />
+    <nd ref='-2666' />
+    <nd ref='-2554' />
+  </way>
+  <way id='-3212' action='modify' visible='true'>
+    <nd ref='-2704' />
+    <nd ref='-2706' />
+    <nd ref='-2708' />
+    <nd ref='-2538' />
+    <nd ref='-2534' />
+  </way>
+  <way id='-3210' action='modify' visible='true'>
+    <nd ref='-2542' />
+    <nd ref='-2706' />
+    <nd ref='-2536' />
+  </way>
+  <way id='-3208' action='modify' visible='true'>
+    <nd ref='-2702' />
+    <nd ref='-2704' />
+    <nd ref='-2566' />
+    <nd ref='-2546' />
+    <nd ref='-2542' />
+  </way>
+  <way id='-3206' action='modify' visible='true'>
+    <nd ref='-2584' />
+    <nd ref='-2694' />
+    <nd ref='-2696' />
+    <nd ref='-2698' />
+    <nd ref='-2694' />
+  </way>
+  <way id='-3204' action='modify' visible='true'>
+    <nd ref='-2700' />
+    <nd ref='-2650' />
+    <nd ref='-2688' />
+  </way>
+  <way id='-3202' action='modify' visible='true'>
+    <nd ref='-2652' />
+    <nd ref='-2686' />
+  </way>
+  <way id='-3200' action='modify' visible='true'>
+    <nd ref='-2654' />
+    <nd ref='-2684' />
+  </way>
+  <way id='-3198' action='modify' visible='true'>
+    <nd ref='-2656' />
+    <nd ref='-2716' />
+    <nd ref='-2682' />
+  </way>
+  <way id='-3196' action='modify' visible='true'>
+    <nd ref='-2658' />
+    <nd ref='-2680' />
+  </way>
+  <way id='-3194' action='modify' visible='true'>
+    <nd ref='-2700' />
+    <nd ref='-2660' />
+    <nd ref='-2678' />
+  </way>
+  <way id='-3192' action='modify' visible='true'>
+    <nd ref='-2700' />
+    <nd ref='-2662' />
+    <nd ref='-2676' />
+  </way>
+  <way id='-3190' action='modify' visible='true'>
+    <nd ref='-2550' />
+    <nd ref='-2664' />
+    <nd ref='-2674' />
+  </way>
+  <way id='-3188' action='modify' visible='true'>
+    <nd ref='-2550' />
+    <nd ref='-2666' />
+    <nd ref='-2672' />
+  </way>
+  <way id='-3186' action='modify' visible='true'>
+    <nd ref='-2648' />
+    <nd ref='-2692' />
+    <nd ref='-2690' />
+    <nd ref='-2648' />
+    <nd ref='-2650' />
+    <nd ref='-2652' />
+    <nd ref='-2654' />
+    <nd ref='-2656' />
+    <nd ref='-2716' />
+    <nd ref='-2658' />
+    <nd ref='-2660' />
+    <nd ref='-2662' />
+    <nd ref='-2664' />
+    <nd ref='-2666' />
+    <nd ref='-2670' />
+    <nd ref='-2668' />
+    <nd ref='-2548' />
+  </way>
+  <way id='-3184' action='modify' visible='true'>
+    <nd ref='-2694' />
+    <nd ref='-2498' />
+    <nd ref='-2502' />
+  </way>
+  <way id='-3182' action='modify' visible='true'>
+    <nd ref='-2612' />
+    <nd ref='-2630' />
+  </way>
+  <way id='-3180' action='modify' visible='true'>
+    <nd ref='-2610' />
+    <nd ref='-2628' />
+  </way>
+  <way id='-3178' action='modify' visible='true'>
+    <nd ref='-2608' />
+    <nd ref='-2626' />
+  </way>
+  <way id='-3176' action='modify' visible='true'>
+    <nd ref='-2606' />
+    <nd ref='-2624' />
+  </way>
+  <way id='-3174' action='modify' visible='true'>
+    <nd ref='-2604' />
+    <nd ref='-2622' />
+  </way>
+  <way id='-3172' action='modify' visible='true'>
+    <nd ref='-2602' />
+    <nd ref='-2620' />
+  </way>
+  <way id='-3170' action='modify' visible='true'>
+    <nd ref='-2600' />
+    <nd ref='-2618' />
+  </way>
+  <way id='-3168' action='modify' visible='true'>
+    <nd ref='-2598' />
+    <nd ref='-2616' />
+  </way>
+  <way id='-3166' action='modify' visible='true'>
+    <nd ref='-2596' />
+    <nd ref='-2638' />
+    <nd ref='-2636' />
+    <nd ref='-2596' />
+    <nd ref='-2598' />
+    <nd ref='-2600' />
+    <nd ref='-2602' />
+    <nd ref='-2604' />
+    <nd ref='-2606' />
+    <nd ref='-2608' />
+    <nd ref='-2610' />
+    <nd ref='-2612' />
+    <nd ref='-2614' />
+    <nd ref='-2632' />
+    <nd ref='-2634' />
+    <nd ref='-2614' />
+  </way>
+  <way id='-3164' action='modify' visible='true'>
+    <nd ref='-2576' />
+    <nd ref='-2594' />
+  </way>
+  <way id='-3162' action='modify' visible='true'>
+    <nd ref='-2578' />
+    <nd ref='-2592' />
+  </way>
+  <way id='-3160' action='modify' visible='true'>
+    <nd ref='-2580' />
+    <nd ref='-2590' />
+  </way>
+  <way id='-3158' action='modify' visible='true'>
+    <nd ref='-2582' />
+    <nd ref='-2588' />
+  </way>
+  <way id='-3156' action='modify' visible='true'>
+    <nd ref='-2570' />
+    <nd ref='-2718' />
+    <nd ref='-2576' />
+    <nd ref='-2578' />
+    <nd ref='-2580' />
+    <nd ref='-2582' />
+    <nd ref='-2584' />
+    <nd ref='-2586' />
+  </way>
+  <way id='-3154' action='modify' visible='true'>
+    <nd ref='-2568' />
+    <nd ref='-2574' />
+  </way>
+  <way id='-3152' action='modify' visible='true'>
+    <nd ref='-2564' />
+    <nd ref='-2566' />
+    <nd ref='-2568' />
+    <nd ref='-2570' />
+    <nd ref='-2572' />
+  </way>
+  <way id='-3150' action='modify' visible='true'>
+    <nd ref='-2560' />
+    <nd ref='-2562' />
+    <nd ref='-2558' />
+    <nd ref='-2700' />
+    <nd ref='-2554' />
+    <nd ref='-2550' />
+  </way>
+  <way id='-3148' action='modify' visible='true'>
+    <nd ref='-2556' />
+    <nd ref='-2558' />
+  </way>
+  <way id='-3146' action='modify' visible='true'>
+    <nd ref='-2552' />
+    <nd ref='-2554' />
+  </way>
+  <way id='-3144' action='modify' visible='true'>
+    <nd ref='-2548' />
+    <nd ref='-2550' />
+    <nd ref='-2670' />
+  </way>
+  <way id='-3142' action='modify' visible='true'>
+    <nd ref='-2544' />
+    <nd ref='-2546' />
+    <nd ref='-2704' />
+  </way>
+  <way id='-3140' action='modify' visible='true'>
+    <nd ref='-2540' />
+    <nd ref='-2542' />
+  </way>
+  <way id='-3138' action='modify' visible='true'>
+    <nd ref='-2536' />
+    <nd ref='-2538' />
+  </way>
+  <way id='-3136' action='modify' visible='true'>
+    <nd ref='-2532' />
+    <nd ref='-2534' />
+  </way>
+  <way id='-3134' action='modify' visible='true'>
+    <nd ref='-2528' />
+    <nd ref='-2530' />
+    <nd ref='-2526' />
+    <nd ref='-2644' />
+    <nd ref='-2646' />
+    <nd ref='-2522' />
+    <nd ref='-2518' />
+    <nd ref='-2514' />
+    <nd ref='-2714' />
+    <nd ref='-2510' />
+    <nd ref='-2506' />
+    <nd ref='-2640' />
+    <nd ref='-2694' />
+  </way>
+  <way id='-3132' action='modify' visible='true'>
+    <nd ref='-2524' />
+    <nd ref='-2526' />
+    <nd ref='-2648' />
+  </way>
+  <way id='-3130' action='modify' visible='true'>
+    <nd ref='-2520' />
+    <nd ref='-2522' />
+    <nd ref='-2648' />
+  </way>
+  <way id='-3128' action='modify' visible='true'>
+    <nd ref='-2516' />
+    <nd ref='-2518' />
+    <nd ref='-2648' />
+  </way>
+  <way id='-3126' action='modify' visible='true'>
+    <nd ref='-2512' />
+    <nd ref='-2514' />
+    <nd ref='-2614' />
+  </way>
+  <way id='-3124' action='modify' visible='true'>
+    <nd ref='-2508' />
+    <nd ref='-2510' />
+    <nd ref='-2694' />
+  </way>
+  <way id='-3122' action='modify' visible='true'>
+    <nd ref='-2504' />
+    <nd ref='-2506' />
+    <nd ref='-2614' />
+  </way>
+  <way id='-3120' action='modify' visible='true'>
+    <nd ref='-2500' />
+    <nd ref='-2502' />
+  </way>
+  <way id='-3118' action='modify' visible='true'>
+    <nd ref='-2496' />
+    <nd ref='-2498' />
+    <nd ref='-2494' />
+    <nd ref='-2694' />
+  </way>
+  <way id='-3116' action='modify' visible='true'>
+    <nd ref='-2494' />
+    <nd ref='-2642' />
+    <nd ref='-2640' />
+    <nd ref='-2492' />
+    <nd ref='-2494' />
+  </way>
+  <way id='-3114' action='modify' visible='true'>
+    <nd ref='-2462' />
+    <nd ref='-2480' />
+  </way>
+  <way id='-3112' action='modify' visible='true'>
+    <nd ref='-2444' />
+    <nd ref='-2482' />
+  </way>
+  <way id='-3110' action='modify' visible='true'>
+    <nd ref='-2426' />
+    <nd ref='-2490' />
+    <nd ref='-2470' />
+  </way>
+  <way id='-3108' action='modify' visible='true'>
+    <nd ref='-2424' />
+    <nd ref='-2490' />
+    <nd ref='-2450' />
+  </way>
+  <way id='-3106' action='modify' visible='true'>
+    <nd ref='-2464' />
+    <nd ref='-2490' />
+    <nd ref='-2472' />
+  </way>
+  <way id='-3104' action='modify' visible='true'>
+    <nd ref='-2466' />
+    <nd ref='-2490' />
+    <nd ref='-2468' />
+  </way>
+  <way id='-3102' action='modify' visible='true'>
+    <nd ref='-2422' />
+    <nd ref='-2490' />
+    <nd ref='-2442' />
+  </way>
+  <way id='-3100' action='modify' visible='true'>
+    <nd ref='-2440' />
+    <nd ref='-2490' />
+    <nd ref='-2438' />
+  </way>
+  <way id='-3098' action='modify' visible='true'>
+    <nd ref='-2436' />
+    <nd ref='-2490' />
+    <nd ref='-2480' />
+  </way>
+  <way id='-3096' action='modify' visible='true'>
+    <nd ref='-2482' />
+    <nd ref='-2490' />
+    <nd ref='-2178' />
+  </way>
+  <way id='-3094' action='modify' visible='true'>
+    <nd ref='-2462' />
+    <nd ref='-2482' />
+    <nd ref='-2436' />
+  </way>
+  <way id='-3092' action='modify' visible='true'>
+    <nd ref='-2438' />
+    <nd ref='-2482' />
+    <nd ref='-2440' />
+  </way>
+  <way id='-3090' action='modify' visible='true'>
+    <nd ref='-2464' />
+    <nd ref='-2482' />
+    <nd ref='-2442' />
+  </way>
+  <way id='-3088' action='modify' visible='true'>
+    <nd ref='-2488' />
+    <nd ref='-2444' />
+  </way>
+  <way id='-3086' action='modify' visible='true'>
+    <nd ref='-2480' />
+    <nd ref='-2482' />
+    <nd ref='-2484' />
+    <nd ref='-2486' />
+    <nd ref='-2488' />
+    <nd ref='-2428' />
+  </way>
+  <way id='-3084' action='modify' visible='true'>
+    <nd ref='-2468' />
+    <nd ref='-2422' />
+  </way>
+  <way id='-3082' action='modify' visible='true'>
+    <nd ref='-2426' />
+    <nd ref='-2470' />
+    <nd ref='-2480' />
+    <nd ref='-2472' />
+  </way>
+  <way id='-3080' action='modify' visible='true'>
+    <nd ref='-2444' />
+    <nd ref='-2480' />
+    <nd ref='-2442' />
+  </way>
+  <way id='-3078' action='modify' visible='true'>
+    <nd ref='-2440' />
+    <nd ref='-2480' />
+    <nd ref='-2438' />
+  </way>
+  <way id='-3076' action='modify' visible='true'>
+    <nd ref='-2436' />
+    <nd ref='-2480' />
+    <nd ref='-2478' />
+    <nd ref='-2476' />
+    <nd ref='-2474' />
+    <nd ref='-2436' />
+  </way>
+  <way id='-3074' action='modify' visible='true'>
+    <nd ref='-2462' />
+    <nd ref='-2474' />
+    <nd ref='-2430' />
+  </way>
+  <way id='-3072' action='modify' visible='true'>
+    <nd ref='-2446' />
+    <nd ref='-2442' />
+  </way>
+  <way id='-3070' action='modify' visible='true'>
+    <nd ref='-2446' />
+    <nd ref='-2450' />
+  </way>
+  <way id='-3068' action='modify' visible='true'>
+    <nd ref='-2460' />
+    <nd ref='-2456' />
+  </way>
+  <way id='-3066' action='modify' visible='true'>
+    <nd ref='-2460' />
+    <nd ref='-2436' />
+  </way>
+  <way id='-3064' action='modify' visible='true'>
+    <nd ref='-2466' />
+    <nd ref='-2422' />
+  </way>
+  <way id='-3062' action='modify' visible='true'>
+    <nd ref='-2422' />
+    <nd ref='-2472' />
+    <nd ref='-2426' />
+  </way>
+  <way id='-3060' action='modify' visible='true'>
+    <nd ref='-2454' />
+    <nd ref='-2472' />
+    <nd ref='-2438' />
+  </way>
+  <way id='-3058' action='modify' visible='true'>
+    <nd ref='-2456' />
+    <nd ref='-2472' />
+    <nd ref='-2436' />
+  </way>
+  <way id='-3056' action='modify' visible='true'>
+    <nd ref='-2436' />
+    <nd ref='-2470' />
+    <nd ref='-2456' />
+  </way>
+  <way id='-3054' action='modify' visible='true'>
+    <nd ref='-2454' />
+    <nd ref='-2470' />
+    <nd ref='-2438' />
+  </way>
+  <way id='-3052' action='modify' visible='true'>
+    <nd ref='-2438' />
+    <nd ref='-2468' />
+    <nd ref='-2454' />
+  </way>
+  <way id='-3050' action='modify' visible='true'>
+    <nd ref='-2452' />
+    <nd ref='-2468' />
+    <nd ref='-2440' />
+  </way>
+  <way id='-3048' action='modify' visible='true'>
+    <nd ref='-2454' />
+    <nd ref='-2466' />
+    <nd ref='-2438' />
+  </way>
+  <way id='-3046' action='modify' visible='true'>
+    <nd ref='-2452' />
+    <nd ref='-2466' />
+    <nd ref='-2440' />
+  </way>
+  <way id='-3044' action='modify' visible='true'>
+    <nd ref='-2464' />
+    <nd ref='-2424' />
+  </way>
+  <way id='-3042' action='modify' visible='true'>
+    <nd ref='-2452' />
+    <nd ref='-2464' />
+    <nd ref='-2440' />
+  </way>
+  <way id='-3040' action='modify' visible='true'>
+    <nd ref='-2442' />
+    <nd ref='-2464' />
+    <nd ref='-2450' />
+  </way>
+  <way id='-3038' action='modify' visible='true'>
+    <nd ref='-2430' />
+    <nd ref='-2426' />
+  </way>
+  <way id='-3036' action='modify' visible='true'>
+    <nd ref='-2456' />
+    <nd ref='-2430' />
+    <nd ref='-2458' />
+  </way>
+  <way id='-3034' action='modify' visible='true'>
+    <nd ref='-2460' />
+    <nd ref='-2430' />
+    <nd ref='-2436' />
+  </way>
+  <way id='-3032' action='modify' visible='true'>
+    <nd ref='-2446' />
+    <nd ref='-2428' />
+  </way>
+  <way id='-3030' action='modify' visible='true'>
+    <nd ref='-2420' />
+    <nd ref='-2444' />
+    <nd ref='-2428' />
+  </way>
+  <way id='-3028' action='modify' visible='true'>
+    <nd ref='-2420' />
+    <nd ref='-2446' />
+  </way>
+  <way id='-3026' action='modify' visible='true'>
+    <nd ref='-2420' />
+    <nd ref='-2458' />
+  </way>
+  <way id='-3024' action='modify' visible='true'>
+    <nd ref='-2420' />
+    <nd ref='-2456' />
+  </way>
+  <way id='-3022' action='modify' visible='true'>
+    <nd ref='-2420' />
+    <nd ref='-2454' />
+  </way>
+  <way id='-3020' action='modify' visible='true'>
+    <nd ref='-2420' />
+    <nd ref='-2452' />
+  </way>
+  <way id='-3018' action='modify' visible='true'>
+    <nd ref='-2420' />
+    <nd ref='-2450' />
+  </way>
+  <way id='-3016' action='modify' visible='true'>
+    <nd ref='-2420' />
+    <nd ref='-2448' />
+  </way>
+  <way id='-3014' action='modify' visible='true'>
+    <nd ref='-2424' />
+    <nd ref='-2458' />
+  </way>
+  <way id='-3012' action='modify' visible='true'>
+    <nd ref='-2424' />
+    <nd ref='-2456' />
+  </way>
+  <way id='-3010' action='modify' visible='true'>
+    <nd ref='-2424' />
+    <nd ref='-2454' />
+  </way>
+  <way id='-3008' action='modify' visible='true'>
+    <nd ref='-2424' />
+    <nd ref='-2452' />
+  </way>
+  <way id='-3006' action='modify' visible='true'>
+    <nd ref='-2424' />
+    <nd ref='-2450' />
+  </way>
+  <way id='-3004' action='modify' visible='true'>
+    <nd ref='-2424' />
+    <nd ref='-2448' />
+  </way>
+  <way id='-3002' action='modify' visible='true'>
+    <nd ref='-2422' />
+    <nd ref='-2448' />
+  </way>
+  <way id='-3000' action='modify' visible='true'>
+    <nd ref='-2450' />
+    <nd ref='-2422' />
+    <nd ref='-2452' />
+  </way>
+  <way id='-2998' action='modify' visible='true'>
+    <nd ref='-2454' />
+    <nd ref='-2422' />
+    <nd ref='-2456' />
+  </way>
+  <way id='-2996' action='modify' visible='true'>
+    <nd ref='-2448' />
+    <nd ref='-2426' />
+    <nd ref='-2450' />
+  </way>
+  <way id='-2994' action='modify' visible='true'>
+    <nd ref='-2452' />
+    <nd ref='-2426' />
+    <nd ref='-2454' />
+  </way>
+  <way id='-2992' action='modify' visible='true'>
+    <nd ref='-2456' />
+    <nd ref='-2426' />
+    <nd ref='-2458' />
+  </way>
+  <way id='-2990' action='modify' visible='true'>
+    <nd ref='-2418' />
+    <nd ref='-2448' />
+  </way>
+  <way id='-2988' action='modify' visible='true'>
+    <nd ref='-2418' />
+    <nd ref='-2450' />
+  </way>
+  <way id='-2986' action='modify' visible='true'>
+    <nd ref='-2418' />
+    <nd ref='-2452' />
+  </way>
+  <way id='-2984' action='modify' visible='true'>
+    <nd ref='-2418' />
+    <nd ref='-2454' />
+  </way>
+  <way id='-2982' action='modify' visible='true'>
+    <nd ref='-2418' />
+    <nd ref='-2456' />
+  </way>
+  <way id='-2980' action='modify' visible='true'>
+    <nd ref='-2418' />
+    <nd ref='-2458' />
+  </way>
+  <way id='-2978' action='modify' visible='true'>
+    <nd ref='-2436' />
+    <nd ref='-2216' />
+  </way>
+  <way id='-2976' action='modify' visible='true'>
+    <nd ref='-2198' />
+    <nd ref='-2440' />
+    <nd ref='-2200' />
+  </way>
+  <way id='-2974' action='modify' visible='true'>
+    <nd ref='-2194' />
+    <nd ref='-2452' />
+  </way>
+  <way id='-2972' action='modify' visible='true'>
+    <nd ref='-2202' />
+    <nd ref='-2454' />
+    <nd ref='-2204' />
+  </way>
+  <way id='-2970' action='modify' visible='true'>
+    <nd ref='-2206' />
+    <nd ref='-2438' />
+    <nd ref='-2208' />
+  </way>
+  <way id='-2968' action='modify' visible='true'>
+    <nd ref='-2428' />
+    <nd ref='-2442' />
+    <nd ref='-2188' />
+  </way>
+  <way id='-2966' action='modify' visible='true'>
+    <nd ref='-2436' />
+    <nd ref='-2438' />
+    <nd ref='-2440' />
+    <nd ref='-2442' />
+    <nd ref='-2444' />
+    <nd ref='-2446' />
+    <nd ref='-2448' />
+    <nd ref='-2450' />
+    <nd ref='-2452' />
+    <nd ref='-2454' />
+    <nd ref='-2456' />
+    <nd ref='-2458' />
+    <nd ref='-2460' />
+    <nd ref='-2462' />
+    <nd ref='-2436' />
+  </way>
+  <way id='-2964' action='modify' visible='true'>
+    <nd ref='-2428' />
+    <nd ref='-2450' />
+    <nd ref='-2424' />
+  </way>
+  <way id='-2962' action='modify' visible='true'>
+    <nd ref='-2530' />
+    <nd ref='-2434' />
+    <nd ref='-2710' />
+  </way>
+  <way id='-2960' action='modify' visible='true'>
+    <nd ref='-2424' />
+    <nd ref='-2244' />
+  </way>
+  <way id='-2958' action='modify' visible='true'>
+    <nd ref='-2246' />
+    <nd ref='-2424' />
+    <nd ref='-2282' />
+  </way>
+  <way id='-2956' action='modify' visible='true'>
+    <nd ref='-2458' />
+    <nd ref='-2422' />
+    <nd ref='-2240' />
+  </way>
+  <way id='-2954' action='modify' visible='true'>
+    <nd ref='-2242' />
+    <nd ref='-2422' />
+    <nd ref='-2246' />
+  </way>
+  <way id='-2952' action='modify' visible='true'>
+    <nd ref='-2462' />
+    <nd ref='-2430' />
+    <nd ref='-2456' />
+    <nd ref='-2426' />
+    <nd ref='-2240' />
+  </way>
+  <way id='-2950' action='modify' visible='true'>
+    <nd ref='-2242' />
+    <nd ref='-2426' />
+    <nd ref='-2246' />
+  </way>
+  <way id='-2948' action='modify' visible='true'>
+    <nd ref='-2244' />
+    <nd ref='-2426' />
+    <nd ref='-2282' />
+  </way>
+  <way id='-2946' action='modify' visible='true'>
+    <nd ref='-2240' />
+    <nd ref='-2424' />
+    <nd ref='-2242' />
+  </way>
+  <way id='-2944' action='modify' visible='true'>
+    <nd ref='-2418' />
+    <nd ref='-2426' />
+    <nd ref='-2422' />
+    <nd ref='-2424' />
+    <nd ref='-2420' />
+  </way>
+  <way id='-2942' action='modify' visible='true'>
+    <nd ref='-2356' />
+    <nd ref='-2358' />
+    <nd ref='-2416' />
+    <nd ref='-2348' />
+    <nd ref='-2394' />
+    <nd ref='-2412' />
+    <nd ref='-2408' />
+    <nd ref='-2386' />
+    <nd ref='-2404' />
+    <nd ref='-2400' />
+    <nd ref='-2390' />
+    <nd ref='-2350' />
+    <nd ref='-2414' />
+    <nd ref='-2354' />
+    <nd ref='-2352' />
+  </way>
+  <way id='-2940' action='modify' visible='true'>
+    <nd ref='-2332' />
+    <nd ref='-2412' />
+    <nd ref='-2368' />
+    <nd ref='-2410' />
+  </way>
+  <way id='-2938' action='modify' visible='true'>
+    <nd ref='-2334' />
+    <nd ref='-2408' />
+    <nd ref='-2370' />
+    <nd ref='-2406' />
+  </way>
+  <way id='-2936' action='modify' visible='true'>
+    <nd ref='-2340' />
+    <nd ref='-2286' />
+    <nd ref='-2338' />
+    <nd ref='-2404' />
+    <nd ref='-2374' />
+    <nd ref='-2402' />
+  </way>
+  <way id='-2934' action='modify' visible='true'>
+    <nd ref='-2340' />
+    <nd ref='-2400' />
+    <nd ref='-2376' />
+    <nd ref='-2398' />
+  </way>
+  <way id='-2932' action='modify' visible='true'>
+    <nd ref='-2244' />
+    <nd ref='-2396' />
+    <nd ref='-2362' />
+    <nd ref='-2366' />
+    <nd ref='-2394' />
+    <nd ref='-2330' />
+    <nd ref='-2298' />
+    <nd ref='-2296' />
+    <nd ref='-2292' />
+    <nd ref='-2312' />
+    <nd ref='-2238' />
+    <nd ref='-2244' />
+    <nd ref='-2246' />
+    <nd ref='-2282' />
+    <nd ref='-2242' />
+    <nd ref='-2240' />
+    <nd ref='-2236' />
+    <nd ref='-2310' />
+  </way>
+  <way id='-2930' action='modify' visible='true'>
+    <nd ref='-2348' />
+    <nd ref='-2396' />
+    <nd ref='-2288' />
+    <nd ref='-2388' />
+    <nd ref='-2286' />
+    <nd ref='-2392' />
+    <nd ref='-2384' />
+    <nd ref='-2380' />
+    <nd ref='-2390' />
+    <nd ref='-2342' />
+    <nd ref='-2308' />
+    <nd ref='-2306' />
+    <nd ref='-2302' />
+    <nd ref='-2310' />
+  </way>
+  <way id='-2928' action='modify' visible='true'>
+    <nd ref='-2242' />
+    <nd ref='-2388' />
+    <nd ref='-2372' />
+    <nd ref='-2386' />
+    <nd ref='-2336' />
+  </way>
+  <way id='-2926' action='modify' visible='true'>
+    <nd ref='-2384' />
+    <nd ref='-2382' />
+    <nd ref='-2378' />
+  </way>
+  <way id='-2924' action='modify' visible='true'>
+    <nd ref='-2364' />
+    <nd ref='-2366' />
+    <nd ref='-2368' />
+    <nd ref='-2370' />
+    <nd ref='-2372' />
+    <nd ref='-2374' />
+    <nd ref='-2376' />
+    <nd ref='-2380' />
+    <nd ref='-2378' />
+  </way>
+  <way id='-2922' action='modify' visible='true'>
+    <nd ref='-2244' />
+    <nd ref='-2362' />
+    <nd ref='-2360' />
+    <nd ref='-2364' />
+  </way>
+  <way id='-2920' action='modify' visible='true'>
+    <nd ref='-2378' />
+    <nd ref='-2350' />
+    <nd ref='-2344' />
+  </way>
+  <way id='-2918' action='modify' visible='true'>
+    <nd ref='-2364' />
+    <nd ref='-2348' />
+    <nd ref='-2346' />
+  </way>
+  <way id='-2916' action='modify' visible='true'>
+    <nd ref='-2364' />
+    <nd ref='-2358' />
+  </way>
+  <way id='-2914' action='modify' visible='true'>
+    <nd ref='-2378' />
+    <nd ref='-2354' />
+  </way>
+  <way id='-2912' action='modify' visible='true'>
+    <nd ref='-2346' />
+    <nd ref='-2320' />
+    <nd ref='-2316' />
+    <nd ref='-2330' />
+    <nd ref='-2332' />
+    <nd ref='-2334' />
+    <nd ref='-2336' />
+    <nd ref='-2338' />
+    <nd ref='-2340' />
+    <nd ref='-2342' />
+    <nd ref='-2324' />
+    <nd ref='-2328' />
+    <nd ref='-2344' />
+  </way>
+  <way id='-2910' action='modify' visible='true'>
+    <nd ref='-2346' />
+    <nd ref='-2416' />
+  </way>
+  <way id='-2908' action='modify' visible='true'>
+    <nd ref='-2344' />
+    <nd ref='-2414' />
+  </way>
+  <way id='-2906' action='modify' visible='true'>
+    <nd ref='-2328' />
+    <nd ref='-2326' />
+  </way>
+  <way id='-2904' action='modify' visible='true'>
+    <nd ref='-2324' />
+    <nd ref='-2322' />
+  </way>
+  <way id='-2902' action='modify' visible='true'>
+    <nd ref='-2320' />
+    <nd ref='-2318' />
+  </way>
+  <way id='-2900' action='modify' visible='true'>
+    <nd ref='-2316' />
+    <nd ref='-2314' />
+  </way>
+  <way id='-2898' action='modify' visible='true'>
+    <nd ref='-2308' />
+    <nd ref='-2322' />
+  </way>
+  <way id='-2896' action='modify' visible='true'>
+    <nd ref='-2306' />
+    <nd ref='-2304' />
+  </way>
+  <way id='-2894' action='modify' visible='true'>
+    <nd ref='-2302' />
+    <nd ref='-2300' />
+  </way>
+  <way id='-2892' action='modify' visible='true'>
+    <nd ref='-2308' />
+    <nd ref='-2286' />
+  </way>
+  <way id='-2890' action='modify' visible='true'>
+    <nd ref='-2270' />
+    <nd ref='-2296' />
+    <nd ref='-2294' />
+  </way>
+  <way id='-2888' action='modify' visible='true'>
+    <nd ref='-2280' />
+    <nd ref='-2266' />
+    <nd ref='-2270' />
+    <nd ref='-2292' />
+    <nd ref='-2290' />
+  </way>
+  <way id='-2886' action='modify' visible='true'>
+    <nd ref='-2332' />
+    <nd ref='-2288' />
+    <nd ref='-2330' />
+    <nd ref='-2412' />
+    <nd ref='-2288' />
+  </way>
+  <way id='-2884' action='modify' visible='true'>
+    <nd ref='-2336' />
+    <nd ref='-2288' />
+    <nd ref='-2334' />
+  </way>
+  <way id='-2882' action='modify' visible='true'>
+    <nd ref='-2404' />
+    <nd ref='-2342' />
+    <nd ref='-2286' />
+    <nd ref='-2336' />
+  </way>
+  <way id='-2880' action='modify' visible='true'>
+    <nd ref='-2336' />
+    <nd ref='-2284' />
+    <nd ref='-2280' />
+    <nd ref='-2282' />
+    <nd ref='-2422' />
+    <nd ref='-2244' />
+  </way>
+  <way id='-2878' action='modify' visible='true'>
+    <nd ref='-2280' />
+    <nd ref='-2278' />
+    <nd ref='-2274' />
+    <nd ref='-2302' />
+  </way>
+  <way id='-2876' action='modify' visible='true'>
+    <nd ref='-2242' />
+    <nd ref='-2278' />
+    <nd ref='-2276' />
+  </way>
+  <way id='-2874' action='modify' visible='true'>
+    <nd ref='-2240' />
+    <nd ref='-2274' />
+    <nd ref='-2272' />
+  </way>
+  <way id='-2872' action='modify' visible='true'>
+    <nd ref='-2244' />
+    <nd ref='-2270' />
+    <nd ref='-2268' />
+  </way>
+  <way id='-2870' action='modify' visible='true'>
+    <nd ref='-2246' />
+    <nd ref='-2266' />
+    <nd ref='-2264' />
+  </way>
+  <way id='-2868' action='modify' visible='true'>
+    <nd ref='-2248' />
+    <nd ref='-2250' />
+    <nd ref='-2312' />
+    <nd ref='-2262' />
+    <nd ref='-2260' />
+  </way>
+  <way id='-2866' action='modify' visible='true'>
+    <nd ref='-2310' />
+    <nd ref='-2258' />
+    <nd ref='-2256' />
+  </way>
+  <way id='-2864' action='modify' visible='true'>
+    <nd ref='-2310' />
+    <nd ref='-2254' />
+    <nd ref='-2252' />
+  </way>
+  <way id='-2862' action='modify' visible='true'>
+    <nd ref='-2238' />
+    <nd ref='-2262' />
+    <nd ref='-2250' />
+  </way>
+  <way id='-2860' action='modify' visible='true'>
+    <nd ref='-2236' />
+    <nd ref='-2258' />
+    <nd ref='-2254' />
+  </way>
+  <way id='-2858' action='modify' visible='true'>
+    <nd ref='-2246' />
+    <nd ref='-2242' />
+  </way>
+  <way id='-2856' action='modify' visible='true'>
+    <nd ref='-2246' />
+    <nd ref='-2280' />
+    <nd ref='-2242' />
+  </way>
+  <way id='-2854' action='modify' visible='true'>
+    <nd ref='-2240' />
+    <nd ref='-2392' />
+    <nd ref='-2350' />
+  </way>
+  <way id='-2852' action='modify' visible='true'>
+    <nd ref='-2344' />
+    <nd ref='-2380' />
+    <nd ref='-2340' />
+    <nd ref='-2374' />
+    <nd ref='-2336' />
+    <nd ref='-2370' />
+    <nd ref='-2332' />
+    <nd ref='-2366' />
+    <nd ref='-2348' />
+  </way>
+  <way id='-2850' action='modify' visible='true'>
+    <nd ref='-2328' />
+    <nd ref='-2390' />
+    <nd ref='-2324' />
+  </way>
+  <way id='-2848' action='modify' visible='true'>
+    <nd ref='-2324' />
+    <nd ref='-2380' />
+  </way>
+  <way id='-2846' action='modify' visible='true'>
+    <nd ref='-2328' />
+    <nd ref='-2380' />
+  </way>
+  <way id='-2844' action='modify' visible='true'>
+    <nd ref='-2380' />
+    <nd ref='-2400' />
+  </way>
+  <way id='-2842' action='modify' visible='true'>
+    <nd ref='-2390' />
+    <nd ref='-2340' />
+  </way>
+  <way id='-2840' action='modify' visible='true'>
+    <nd ref='-2368' />
+    <nd ref='-2394' />
+  </way>
+  <way id='-2838' action='modify' visible='true'>
+    <nd ref='-2332' />
+    <nd ref='-2394' />
+  </way>
+  <way id='-2836' action='modify' visible='true'>
+    <nd ref='-2334' />
+    <nd ref='-2368' />
+  </way>
+  <way id='-2834' action='modify' visible='true'>
+    <nd ref='-2338' />
+    <nd ref='-2376' />
+    <nd ref='-2390' />
+  </way>
+  <way id='-2832' action='modify' visible='true'>
+    <nd ref='-2242' />
+    <nd ref='-2274' />
+    <nd ref='-2310' />
+  </way>
+  <way id='-2830' action='modify' visible='true'>
+    <nd ref='-2302' />
+    <nd ref='-2240' />
+    <nd ref='-2278' />
+    <nd ref='-2282' />
+    <nd ref='-2266' />
+    <nd ref='-2244' />
+    <nd ref='-2292' />
+  </way>
+  <way id='-2828' action='modify' visible='true'>
+    <nd ref='-2312' />
+    <nd ref='-2270' />
+    <nd ref='-2246' />
+  </way>
+  <way id='-2826' action='modify' visible='true'>
+    <nd ref='-2334' />
+    <nd ref='-2284' />
+    <nd ref='-2338' />
+    <nd ref='-2308' />
+  </way>
+  <way id='-2824' action='modify' visible='true'>
+    <nd ref='-2334' />
+    <nd ref='-2298' />
+    <nd ref='-2270' />
+  </way>
+  <way id='-2822' action='modify' visible='true'>
+    <nd ref='-2280' />
+    <nd ref='-2234' />
+    <nd ref='-2278' />
+  </way>
+  <way id='-2820' action='modify' visible='true'>
+    <nd ref='-2280' />
+    <nd ref='-2232' />
+  </way>
+  <way id='-2818' action='modify' visible='true'>
+    <nd ref='-2274' />
+    <nd ref='-2306' />
+  </way>
+  <way id='-2816' action='modify' visible='true'>
+    <nd ref='-2308' />
+    <nd ref='-2274' />
+  </way>
+  <way id='-2814' action='modify' visible='true'>
+    <nd ref='-2278' />
+    <nd ref='-2284' />
+    <nd ref='-2266' />
+    <nd ref='-2232' />
+  </way>
+  <way id='-2812' action='modify' visible='true'>
+    <nd ref='-2368' />
+    <nd ref='-2298' />
+  </way>
+  <way id='-2810' action='modify' visible='true'>
+    <nd ref='-2368' />
+    <nd ref='-2296' />
+  </way>
+  <way id='-2808' action='modify' visible='true'>
+    <nd ref='-2368' />
+    <nd ref='-2292' />
+  </way>
+  <way id='-2806' action='modify' visible='true'>
+    <nd ref='-2368' />
+    <nd ref='-2312' />
+  </way>
+  <way id='-2804' action='modify' visible='true'>
+    <nd ref='-2308' />
+    <nd ref='-2376' />
+    <nd ref='-2342' />
+    <nd ref='-2240' />
+  </way>
+  <way id='-2802' action='modify' visible='true'>
+    <nd ref='-2302' />
+    <nd ref='-2376' />
+    <nd ref='-2306' />
+  </way>
+  <way id='-2800' action='modify' visible='true'>
+    <nd ref='-2414' />
+    <nd ref='-2376' />
+    <nd ref='-2310' />
+  </way>
+  <way id='-2798' action='modify' visible='true'>
+    <nd ref='-2368' />
+    <nd ref='-2416' />
+  </way>
+  <way id='-2796' action='modify' visible='true'>
+    <nd ref='-2306' />
+    <nd ref='-2240' />
+  </way>
+  <way id='-2794' action='modify' visible='true'>
+    <nd ref='-2308' />
+    <nd ref='-2240' />
+  </way>
+  <way id='-2792' action='modify' visible='true'>
+    <nd ref='-2390' />
+    <nd ref='-2240' />
+  </way>
+  <way id='-2790' action='modify' visible='true'>
+    <nd ref='-2380' />
+    <nd ref='-2240' />
+  </way>
+  <way id='-2788' action='modify' visible='true'>
+    <nd ref='-2298' />
+    <nd ref='-2244' />
+    <nd ref='-2296' />
+  </way>
+  <way id='-2786' action='modify' visible='true'>
+    <nd ref='-2394' />
+    <nd ref='-2244' />
+    <nd ref='-2330' />
+    <nd ref='-2348' />
+  </way>
+  <way id='-2784' action='modify' visible='true'>
+    <nd ref='-2244' />
+    <nd ref='-2366' />
+  </way>
+  <way id='-2782' action='modify' visible='true'>
+    <nd ref='-2240' />
+    <nd ref='-2384' />
+  </way>
+  <way id='-2780' action='modify' visible='true'>
+    <nd ref='-2386' />
+    <nd ref='-2288' />
+  </way>
+  <way id='-2778' action='modify' visible='true'>
+    <nd ref='-2408' />
+    <nd ref='-2288' />
+  </way>
+  <way id='-2776' action='modify' visible='true'>
+    <nd ref='-2394' />
+    <nd ref='-2288' />
+  </way>
+  <way id='-2774' action='modify' visible='true'>
+    <nd ref='-2404' />
+    <nd ref='-2286' />
+    <nd ref='-2386' />
+  </way>
+  <way id='-2772' action='modify' visible='true'>
+    <nd ref='-2390' />
+    <nd ref='-2286' />
+    <nd ref='-2400' />
+  </way>
+  <way id='-2770' action='modify' visible='true'>
+    <nd ref='-2342' />
+    <nd ref='-2350' />
+  </way>
+  <way id='-2768' action='modify' visible='true'>
+    <nd ref='-2412' />
+    <nd ref='-2334' />
+    <nd ref='-2386' />
+    <nd ref='-2338' />
+    <nd ref='-2400' />
+    <nd ref='-2342' />
+    <nd ref='-2350' />
+  </way>
+  <way id='-2766' action='modify' visible='true'>
+    <nd ref='-2344' />
+    <nd ref='-2390' />
+    <nd ref='-2340' />
+    <nd ref='-2404' />
+    <nd ref='-2336' />
+    <nd ref='-2408' />
+    <nd ref='-2332' />
+    <nd ref='-2394' />
+  </way>
+  <way id='-2764' action='modify' visible='true'>
+    <nd ref='-2388' />
+    <nd ref='-2246' />
+  </way>
+  <way id='-2762' action='modify' visible='true'>
+    <nd ref='-2368' />
+    <nd ref='-2408' />
+    <nd ref='-2372' />
+    <nd ref='-2404' />
+    <nd ref='-2376' />
+  </way>
+  <way id='-2760' action='modify' visible='true'>
+    <nd ref='-2400' />
+    <nd ref='-2374' />
+    <nd ref='-2386' />
+    <nd ref='-2370' />
+    <nd ref='-2412' />
+    <nd ref='-2366' />
+  </way>
+  <way id='-2758' action='modify' visible='true'>
+    <nd ref='-2378' />
+    <nd ref='-2390' />
+  </way>
+  <way id='-2756' action='modify' visible='true'>
+    <nd ref='-2364' />
+    <nd ref='-2394' />
+  </way>
+  <way id='-2754' action='modify' visible='true'>
+    <nd ref='-2288' />
+    <nd ref='-2298' />
+    <nd ref='-2314' />
+  </way>
+  <way id='-2752' action='modify' visible='true'>
+    <nd ref='-2232' />
+    <nd ref='-2284' />
+    <nd ref='-2234' />
+    <nd ref='-2230' />
+  </way>
+  <way id='-2750' action='modify' visible='true'>
+    <nd ref='-2232' />
+    <nd ref='-2228' />
+  </way>
+  <way id='-2748' action='modify' visible='true'>
+    <nd ref='-2378' />
+    <nd ref='-2226' />
+  </way>
+  <way id='-2746' action='modify' visible='true'>
+    <nd ref='-2364' />
+    <nd ref='-2224' />
+  </way>
+  <way id='-2744' action='modify' visible='true'>
+    <nd ref='-2222' />
+    <nd ref='-2250' />
+  </way>
+  <way id='-2742' action='modify' visible='true'>
+    <nd ref='-2220' />
+    <nd ref='-2472' />
+    <nd ref='-2470' />
+    <nd ref='-2212' />
+  </way>
+  <way id='-2740' action='modify' visible='true'>
+    <nd ref='-2460' />
+    <nd ref='-2218' />
+  </way>
+  <way id='-2738' action='modify' visible='true'>
+    <nd ref='-2214' />
+    <nd ref='-2456' />
+  </way>
+  <way id='-2736' action='modify' visible='true'>
+    <nd ref='-2210' />
+    <nd ref='-2468' />
+    <nd ref='-2466' />
+    <nd ref='-2192' />
+  </way>
+  <way id='-2734' action='modify' visible='true'>
+    <nd ref='-2196' />
+    <nd ref='-2464' />
+    <nd ref='-2186' />
+  </way>
+  <way id='-2732' action='modify' visible='true'>
+    <nd ref='-2452' />
+    <nd ref='-2190' />
+  </way>
+  <way id='-2730' action='modify' visible='true'>
+    <nd ref='-2182' />
+    <nd ref='-2446' />
+  </way>
+  <way id='-2728' action='modify' visible='true'>
+    <nd ref='-2184' />
+    <nd ref='-2450' />
+  </way>
+  <way id='-2726' action='modify' visible='true'>
+    <nd ref='-2430' />
+    <nd ref='-2418' />
+  </way>
+  <way id='-2724' action='modify' visible='true'>
+    <nd ref='-2430' />
+    <nd ref='-2180' />
+  </way>
+  <way id='-2722' action='modify' visible='true'>
+    <nd ref='-2176' />
+    <nd ref='-2714' />
+    <nd ref='-2694' />
+  </way>
+  <way id='-2720' action='modify' visible='true'>
+    <nd ref='-2174' />
+    <nd ref='-2428' />
+    <nd ref='-2420' />
+  </way>
+</osm>

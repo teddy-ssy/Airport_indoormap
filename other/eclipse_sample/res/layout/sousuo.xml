@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#eee"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:id="@+id/layout_searchfull"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:padding="10dp" >
+
+        <RelativeLayout
+            android:id="@+id/layout_sousuotitle"
+            android:layout_width="fill_parent"
+            android:layout_height="60dp"
+            android:layout_marginTop="10dp"
+            android:background="#fff" >
+
+            <TextView
+                android:id="@+id/textview_sousuosearch"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:paddingLeft="10dp"
+                android:text="搜索："
+                android:textColor="#000"
+                android:textSize="20dp" />
+
+            <Button
+                android:id="@+id/button_sousuo"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:background="@drawable/search_image"
+                android:onClick="button_sousuo" >
+            </Button>
+
+            <EditText
+                android:id="@+id/edittext_sousuo_input"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_centerInParent="true"
+                android:layout_centerVertical="true"
+                android:layout_toLeftOf="@id/button_sousuo"
+                android:layout_toRightOf="@id/textview_sousuosearch"
+                android:hint="search" />
+        </RelativeLayout>
+
+        <LinearLayout
+            android:id="@+id/layout_searchfenlei1"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/layout_sousuotitle"
+            android:layout_marginTop="20dp"
+            android:background="#fff"
+            android:orientation="horizontal"
+             >
+
+            <Button
+                android:id="@+id/button_searchkind1"
+                android:layout_width="wrap_content"
+                android:layout_height="40dp"
+                android:layout_weight="1"
+                android:background="#cef"
+                android:onClick="button_searchkind1"
+                android:text="登机口" />
+
+            <Button
+                android:id="@+id/button_searchkind2"
+                android:layout_width="wrap_content"
+                android:layout_height="40dp"
+                android:layout_weight="1"
+                android:background="#cef"
+                android:onClick="button_searchkind2"
+                android:text="商店" />
+
+            <Button
+                android:id="@+id/button_searchkind3"
+                android:layout_width="wrap_content"
+                android:layout_height="40dp"
+                android:layout_weight="1"
+                android:background="#cef"
+                android:onClick="button_searchkind3"
+                android:text="电梯" />
+
+            <Button
+                android:id="@+id/button_searchkind4"
+                android:layout_width="wrap_content"
+                android:layout_height="40dp"
+                android:layout_weight="1"
+                android:background="#cef"
+                android:onClick="button_searchkind4"
+                android:text="行李盘" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/layout_searchfenlei2"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/layout_searchfenlei1"
+            android:background="#fff"
+            android:orientation="horizontal" >
+
+            <Button
+                android:id="@+id/button_searchkind5"
+                android:layout_width="wrap_content"
+                android:layout_height="40dp"
+                android:layout_weight="1"
+                android:background="#cef"
+                android:onClick="button_searchkind5"
+                android:text="值机柜台" />
+
+            <Button
+                android:id="@+id/button_searchkind6"
+                android:layout_width="wrap_content"
+                android:layout_height="40dp"
+                android:layout_weight="1"
+                android:background="#cef"
+                android:onClick="button_searchkind6"
+                android:text="问讯处" />
+
+            <Button
+                android:id="@+id/button_searchkind7"
+                android:layout_width="wrap_content"
+                android:layout_height="40dp"
+                android:layout_weight="1"
+                android:background="#cef"
+                android:onClick="button_searchkind7"
+                android:text="厕所" />
+
+            <Button
+                android:id="@+id/button_searchkind8"
+                android:layout_width="wrap_content"
+                android:layout_height="40dp"
+                android:layout_weight="1"
+                android:background="#cef"
+                android:onClick="button_searchkind8"
+                android:text="安检口" />
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/button_voice"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="64dp"
+            android:background="@drawable/yuyin_search_image"
+            android:onClick="button_voice" />
+
+    </RelativeLayout>
+
+</LinearLayout>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/mainLoginRoot"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/banner_title_image"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:id="@+id/mainLoginLayoutBack"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:background="@drawable/banner_title_image" >
+
+        <RelativeLayout
+            android:id="@+id/login_layout1"
+            android:layout_width="fill_parent"
+            android:layout_height="60dp"
+            android:background="@drawable/banner_image_body" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="50dp"
+                android:layout_centerInParent="true"
+                android:text="登录"
+                android:textColor="#fff"
+                android:textSize="40dp" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/login_layout2"
+            android:layout_width="fill_parent"
+            android:layout_height="match_parent"
+            android:layout_below="@id/login_layout1" >
+
+            <EditText
+                android:id="@+id/mainLoginEditAccount"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:layout_alignParentTop="true"
+                android:layout_marginBottom="5.0dp"
+                android:layout_marginLeft="50.0dp"
+                android:layout_marginRight="50.0dp"
+                android:layout_marginTop="60.0dp"
+                android:background="@drawable/main_qq_edit_login"
+                android:hint="姓名"
+                android:maxLength="15"
+                android:paddingLeft="5.0sp"
+                android:saveEnabled="true" />
+
+            <EditText
+                android:id="@+id/mainLoginEditPassword"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:layout_alignLeft="@+id/mainLoginEditAccount"
+                android:layout_alignRight="@+id/mainLoginEditAccount"
+                android:layout_below="@+id/mainLoginEditAccount"
+                android:layout_marginTop="23dp"
+                android:background="@drawable/main_qq_edit_login"
+                android:ems="10"
+                android:hint="密码"
+                android:inputType="textPassword"
+                android:maxLength="15"
+                android:paddingLeft="5.0sp"
+                android:saveEnabled="true" >
+            </EditText>
+
+            <Button
+                android:id="@+id/mainLoginBtn"
+                android:layout_width="match_parent"
+                android:layout_height="45dp"
+                android:layout_below="@id/mainLoginEditPassword"
+                android:layout_centerHorizontal="true"
+                android:layout_marginLeft="50dp"
+                android:layout_marginRight="50dp"
+                android:layout_marginTop="40dp"
+                android:background="#888"
+                android:gravity="center"
+                android:padding="0dp"
+                android:text="登陆"
+                android:textColor="#fff" />
+
+            <Button
+                android:id="@+id/main_btn_register"
+                android:layout_width="match_parent"
+                android:layout_height="45dp"
+                android:layout_below="@id/mainLoginBtn"
+                android:layout_centerHorizontal="true"
+                android:layout_marginLeft="50dp"
+                android:layout_marginRight="50dp"
+                android:layout_marginTop="20dp"
+                android:background="@drawable/banner_image_body"
+                android:gravity="center"
+                android:padding="0dp"
+                android:text="注册" />
+        </RelativeLayout>
+    </RelativeLayout>
+
+</LinearLayout>

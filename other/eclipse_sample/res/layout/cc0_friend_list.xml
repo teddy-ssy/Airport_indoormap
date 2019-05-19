@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="65dp"
+        android:background="@drawable/help_title"
+        android:gravity="center_vertical" >
+
+        <Button
+            android:layout_marginLeft="20dp"
+            android:id="@+id/cc0_friend_list_btn_back"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:layout_centerVertical="true"
+            android:background="@drawable/title_btn_back"
+            android:gravity="center"
+            android:padding="0dp" />
+
+        <TextView
+            android:id="@+id/cc0_friend_list_textview_header"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="好友列表"
+            android:textColor="#ffffff"
+            android:textSize="40dp" />
+
+        <Button
+            android:id="@+id/cc0_friend_list_button_search"
+            android:layout_width="80dp"
+            android:layout_height="32dp"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="10dp"
+            android:background="@drawable/title_btn_right"
+            android:gravity="center"
+            android:padding="0dp"
+            android:text="search"
+            android:textColor="#ffffff"
+            android:textSize="12sp"
+            android:visibility="invisible" />
+    </RelativeLayout>
+
+    <com.airport.help.message.PatchedExpandableListView
+        android:id="@+id/cc0_friend_list_listview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+</LinearLayout>

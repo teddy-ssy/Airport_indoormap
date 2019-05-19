@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/mm_listitem"
+    android:paddingBottom="8dp"
+    android:paddingTop="8dp" >
+
+    <RelativeLayout
+        android:id="@+id/tabmsg_item_left_layout"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_alignParentLeft="true"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="8dp" >
+
+        <ImageView
+            android:id="@+id/tabmsg_item_left_icon"
+            android:layout_width="48dp"
+            android:layout_height="48dp"
+            android:layout_centerInParent="true" />
+
+        <TextView
+            android:id="@+id/tabmsg_item_msg_indicator"
+            android:layout_width="28dp"
+            android:layout_height="25dp"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentTop="true"
+            android:background="@drawable/unread_msg_indicator3"
+            android:gravity="center"
+            android:padding="0dp"
+            android:text="9+"
+            android:textColor="#ffffff"
+            android:textScaleX="1.5"
+            android:textSize="11sp"
+            android:textStyle="bold" />
+    </RelativeLayout>
+
+    <TextView
+        android:id="@+id/tabmsg_item_text_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_toRightOf="@id/tabmsg_item_left_layout"
+        android:textColor="#000"
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/tabmsg_item_text_latest_msg"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@id/tabmsg_item_text_name"
+        android:layout_below="@id/tabmsg_item_text_name"
+        android:maxHeight="30dp"
+        android:textColor="#000"
+        android:textSize="14sp" />
+
+    <TextView
+        android:id="@+id/tabmsg_item_text_time"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_alignTop="@id/tabmsg_item_text_name"
+        android:layout_marginRight="10dp"
+        android:textColor="#000"
+        android:textSize="14sp" />
+
+</RelativeLayout>
