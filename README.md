@@ -53,7 +53,7 @@
 
 
 ## Architecture结构
-<img str="https://github.com/teddy-ssy/Airport_indoormap/blob/master/readme/architicture.png">
+<img src="https://github.com/teddy-ssy/Airport_indoormap/blob/master/readme/architicture.png">
 
 构件列表
 
