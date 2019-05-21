@@ -21,12 +21,12 @@ An outline design of the project indoor interactive guide APP. It mainly solves 
 
 9. Search query: You can quickly and accurately query the floor, location name, category name, etc. and display it on the airport map.
 
-## 预览
+## preview
 功能1
 功能2
 功能2
 
-## 运行环境
+## developing environment
 
 ### hardware
 1. The software runs on the hardware requirements of the server and client:
