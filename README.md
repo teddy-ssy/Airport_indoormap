@@ -72,6 +72,7 @@
 <img src="https://github.com/teddy-ssy/Airport_indoormap/blob/master/readme/airport3.png">
 
 与本模块相关的表
+
 |名称|中文注释|作用|
 |:--:|:--:|:--:|
 |chatEntity|聊天实体表|用户数据表|
@@ -80,6 +81,7 @@
 |UserInfo|用户信息|用户基本信息|
 
 与本模块相关的功能
+
 |名称|作用|
 |:--:|:--:|
 |ConnectedApp|连接系统服务器，调用数据库|
@@ -99,6 +101,7 @@
 |DbSaveOldMsg|信息记录状态|
 
 preview
+
 |机场服务模块主界面|<img src="https://github.com/teddy-ssy/Airport_indoormap/blob/master/readme/airport8.png">|
 |:--:|:--:|
 |好友登录界面|<img src="https://github.com/teddy-ssy/Airport_indoormap/blob/master/readme/airport7.png">|
