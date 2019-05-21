@@ -72,12 +72,12 @@ This component is the core component of the project, and it also concentrates mo
 
 6. Search query: You can quickly and accurately query the floor, location name, category name, etc. and display it on the airport map.
 
-structure
+#### structure
 
 <img src="https://github.com/teddy-ssy/Airport_indoormap/blob/master/readme/navi1.png">
 <img src="https://github.com/teddy-ssy/Airport_indoormap/blob/master/readme/navi2.png">
 
-table
+#### table
 
 |name|meaning|feature|
 |:--:|:--:|:--:|
@@ -87,7 +87,7 @@ table
 |LocationRequestEntity|loaction require data|location require data|
 |LocationResponseEntity|oaction respone data|location respone data|
 
-function
+#### function
 
 |name|feature|
 |:--:|:--:|
@@ -99,7 +99,7 @@ function
 |lockcenter|locating to the central point|
 |distanceView|disance computing|
 
-preview
+#### preview
 
 |real time locating|<img src="https://github.com/teddy-ssy/Airport_indoormap/blob/master/readme/navi3.png">|voice input|<img src="https://github.com/teddy-ssy/Airport_indoormap/blob/master/readme/navi4.png">|QR scaning|<img src="https://github.com/teddy-ssy/Airport_indoormap/blob/master/readme/navi5.png">|
 |:--:|:--:|:--:|:--:|:--:|:--:|
@@ -111,11 +111,11 @@ preview
 
 The core function of this component lies in the "Friends & Savage" module, which realizes the social function of the software. It can provide a social network platform for users who use the software, add friends, live chat, etc., and most importantly, can be friends. Emergency help, by sending your own location information to deal with certain unexpected situations in order to be able to quickly rescue.
 
-structure
+#### structure
 
 <img src="https://github.com/teddy-ssy/Airport_indoormap/blob/master/readme/airport3.png">
 
-table
+#### table
 
 |name|meaning|feature|
 |:--:|:--:|:--:|
@@ -124,7 +124,7 @@ table
 |LocationResponseEntity|locate respone|location inforamtion provide to the user|
 |UserInfo|user inforamtion|basic user information|
 
-function
+#### function
 
 |name|feature|
 |:--:|:--:|
@@ -144,7 +144,7 @@ function
 |FriendListGroupItem|friend managment|
 |DbSaveOldMsg|information record state|
 
-preview
+#### preview
 
 |main view|<img src="https://github.com/teddy-ssy/Airport_indoormap/blob/master/readme/airport8.png">|logging |<img src="https://github.com/teddy-ssy/Airport_indoormap/blob/master/readme/airport7.png">|register|<img src="https://github.com/teddy-ssy/Airport_indoormap/blob/master/readme/airport6.png">|
 |:--:|:--:|:--:|:--:|:--:|:--:|
@@ -155,17 +155,17 @@ preview
 
 After the user arrives at the airport, he can enter the flight number to make relevant inquiries about his flight, such as boarding gate, check-in information, departure time, arrival time, etc., to meet the humanized needs, so that passengers can more easily experience from this software. Fast user experience.
 
-structure
+#### structure
 
 <img src="https://github.com/teddy-ssy/Airport_indoormap/blob/master/readme/info3.png">
 
-table
+#### table
 
 |name|meaning|feature|
 |:--:|:--:|:--:|
 |FightInfo|fight infotamtion|fight infotamtion|
 
-function
+#### function
 
 |name|feature|
 |:--:|:--:|
@@ -174,7 +174,7 @@ function
 |CarInfo|fight parking inforamtion|
 |SearchresultActivity|fight searching and generate suitable path for user|
 
-preview
+#### preview
 
 |fight searching|<img src="https://github.com/teddy-ssy/Airport_indoormap/blob/master/readme/info1.png">|fight detial|<img src="https://github.com/teddy-ssy/Airport_indoormap/blob/master/readme/info2.png">|
 |:--:|:--:|
