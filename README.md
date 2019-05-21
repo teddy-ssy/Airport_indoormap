@@ -99,10 +99,8 @@
 
 <img src="https://github.com/teddy-ssy/Airport_indoormap/blob/master/readme/airport3.png">
 
-成果
 
-机场服务模块主界面
-<img src="https://github.com/teddy-ssy/Airport_indoormap/blob/master/readme/airport8.png">
+|机场服务模块主界面|<img src="https://github.com/teddy-ssy/Airport_indoormap/blob/master/readme/airport8.png">|
 
 好友登录界面
 <img src="https://github.com/teddy-ssy/Airport_indoormap/blob/master/readme/airport7.png">
