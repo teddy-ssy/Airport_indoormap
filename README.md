@@ -134,6 +134,7 @@ preview
 
 |航班搜索主界面|<img src="https://github.com/teddy-ssy/Airport_indoormap/blob/master/readme/info1.png">|航班详情主界面|<img src="https://github.com/teddy-ssy/Airport_indoormap/blob/master/readme/info2.png">|
 |:--:|:--:|
+|||
 
 ### indoor navigation
 该构件是项目的最核心构件，也集中了大部分需求，该构件主要实现
@@ -180,9 +181,9 @@ preview
 
 |实时定位界面|<img src="https://github.com/teddy-ssy/Airport_indoormap/blob/master/readme/navi3.png">|语音输入界面|<img src="https://github.com/teddy-ssy/Airport_indoormap/blob/master/readme/navi4.png">|二维码扫描输入界面|<img src="https://github.com/teddy-ssy/Airport_indoormap/blob/master/readme/navi5.png">|
 |:--:|:--:|:--:|:--:|:--:|:--:|
-|搜索结果列表|<img src="https://github.com/teddy-ssy/Airport_indoormap/blob/master/readme/navi6.png">|搜索结果列表2|<img src="https://github.com/teddy-ssy/Airport_indoormap/blob/master/readme/navi7.png">|设置起点、终点、中转点|<img src="https://github.com/teddy-ssy/Airport_indoormap/blob/master/readme/navi8.png">|
-|自动规划路线导航|<img src="https://github.com/teddy-ssy/Airport_indoormap/blob/master/readme/navi9.png">|设置中转|<img src="https://github.com/teddy-ssy/Airport_indoormap/blob/master/readme/navi10.png">|查看路线|<img src="https://github.com/teddy-ssy/Airport_indoormap/blob/master/readme/navi11.png">|
-|好友查找界面|<img src="https://github.com/teddy-ssy/Airport_indoormap/blob/master/readme/navi12.png">|
+|搜索结果列表|<img src="https://github.com/teddy-ssy/Airport_indoormap/blob/master/readme/navi6.png">|搜索结果列表2|<img src="https://github.com/teddy-ssy/Airport_indoormap/blob/master/readme/navi7.png">|搜索结果地图显示|<img src="https://github.com/teddy-ssy/Airport_indoormap/blob/master/readme/navi8.png">|
+|设置起点、终点、中转点|<img src="https://github.com/teddy-ssy/Airport_indoormap/blob/master/readme/navi9.png">|自动规划路线导航|<img src="https://github.com/teddy-ssy/Airport_indoormap/blob/master/readme/navi10.png">|设置中转|<img src="https://github.com/teddy-ssy/Airport_indoormap/blob/master/readme/navi11.png">|
+|查看路线|<img src="https://github.com/teddy-ssy/Airport_indoormap/blob/master/readme/navi12.png">|
 
 ## Roadmap
 
