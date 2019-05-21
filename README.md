@@ -66,6 +66,7 @@
 ## feature
 
 ### airport service
+
 该构件的核心功能在于“好友&&求救”模块，实现了该软件的社交功能，可以为使用该软件的用户提供一个社交网络平台，可以相互加好友、实时聊天等，最重要的是能够向好友紧急求救，通过发送自己的位置信息来应对某些突发情况以求能够快速解救。
 
 模块结构
@@ -107,9 +108,81 @@ preview
 |好友聊天及位置请求|<img src="https://github.com/teddy-ssy/Airport_indoormap/blob/master/readme/airport5.png">|好友列表界面|<img src="https://github.com/teddy-ssy/Airport_indoormap/blob/master/readme/airport4.png">|好友查找界面|<img src="https://github.com/teddy-ssy/Airport_indoormap/blob/master/readme/airport2.png">|
 |个人信息设置界面|<img src="https://github.com/teddy-ssy/Airport_indoormap/blob/master/readme/airport1.png">|
 
-### indoor location
+### flight info
+
+用户到达机场之后，可以通过输入航班次号对自己乘坐的航班进行相关查询，如登机口、值机信息、起飞时间、到达时间等，达到人性化需求，使乘客更能从此款软件中体验方便、快捷的使用体验。
+
+模块结构
+<img src="https://github.com/teddy-ssy/Airport_indoormap/blob/master/readme/info3.png">
+
+与本模块相关的表
+
+|名称|中文注释|作用|
+|:--:|:--:|:--:|
+|FightInfo|航班信息表|航班信息表|
+
+与本模块相关的功能
+
+|名称|作用|
+|:--:|:--:|
+|FightDetailActivity|记录并存储航班详细信息|
+|SearchFightResultActivity|航班信息匹配查询并返回结果|
+|CarInfo|机场停车信息查询与更新|
+|SearchresultActivity|航班信息查询并规划实时线路室内导航|
+
+preview
+
+|航班搜索主界面|<img src="https://github.com/teddy-ssy/Airport_indoormap/blob/master/readme/info1.png">|航班详情主界面|<img src="https://github.com/teddy-ssy/Airport_indoormap/blob/master/readme/info2.png">|
+|:--:|:--:|
 
 ### indoor navigation
+该构件是项目的最核心构件，也集中了大部分需求，该构件主要实现
+的核心功能如下：
+1.实时定位：通过无线WiFi 对用户进行实时定位，然后进行后续导航和线
+路规划服务。
+2.最优线路规划：通过设置起始点、终点和中转点等，自动规划出最优导航
+路径。
+3.线路纠偏：在规划路径当中实现实时纠偏功能，当用户偏离规划路线时，
+系统自动实时规划出合适的路线保证最优化。
+4.语音识别：在机场设施搜索的时候，通过语音识别，作为输入信息进行各
+种查询。
+5.二维码扫描：通过对航班、商店、厕所灯建筑的唯一二维码进行扫描，从
+而达到输入信息的作用，进而进行信息查询。
+6.搜索查询：可以进行楼层、地点名、类别名等进行快速、准确的查询并显示在机场地图上。
+
+模块结构
+<img src="https://github.com/teddy-ssy/Airport_indoormap/blob/master/readme/navi1.png">
+<img src="https://github.com/teddy-ssy/Airport_indoormap/blob/master/readme/navi2.png">
+
+与本模块相关的表
+
+|名称|中文注释|作用|
+|:--:|:--:|:--:|
+|SearchEntity|搜索实体表|实体数据库表|
+|ShopInfo|商店信息|商店信息表|
+|TabMsgItemEntity|导航路径数据实 体|导航路径数据实体|
+|LocationRequestEntity|位置请求数据|位置请求数据库|
+|LocationResponseEntity|位置请求相应数据库|位置请求相应数据库|
+
+与本模块相关的功能
+
+|名称|作用|
+|:--:|:--:|
+|通过调用SAILS_SDK_V1.73_Publisher.jar|实现该定位功能|
+|MapActivity|地图显示|
+|ShopDetailActivity|商店等详细信息查询|
+|SearchresultActivity|输入信息的匹配查询功能|
+|List<PathRoutingManager.SwitchFloorInfo> routeinfolist|路径导航|
+|lockcenter|中心定位|
+|distanceView|距离计算|
+
+preview
+
+|实时定位界面|<img src="https://github.com/teddy-ssy/Airport_indoormap/blob/master/readme/navi3.png">|语音输入界面|<img src="https://github.com/teddy-ssy/Airport_indoormap/blob/master/readme/navi4.png">|二维码扫描输入界面|<img src="https://github.com/teddy-ssy/Airport_indoormap/blob/master/readme/navi5.png">|
+|:--:|:--:|:--:|:--:|:--:|:--:|
+|搜索结果列表|<img src="https://github.com/teddy-ssy/Airport_indoormap/blob/master/readme/navi6.png">|搜索结果列表2|<img src="https://github.com/teddy-ssy/Airport_indoormap/blob/master/readme/navi7.png">|设置起点、终点、中转点|<img src="https://github.com/teddy-ssy/Airport_indoormap/blob/master/readme/navi8.png">|
+|自动规划路线导航|<img src="https://github.com/teddy-ssy/Airport_indoormap/blob/master/readme/navi9.png">|设置中转|<img src="https://github.com/teddy-ssy/Airport_indoormap/blob/master/readme/navi10.png">|查看路线|<img src="https://github.com/teddy-ssy/Airport_indoormap/blob/master/readme/navi11.png">|
+|好友查找界面|<img src="https://github.com/teddy-ssy/Airport_indoormap/blob/master/readme/navi12.png">|
 
 ## Roadmap
 
