@@ -102,13 +102,9 @@
 
 preview
 
-|机场服务模块主界面|<img src="https://github.com/teddy-ssy/Airport_indoormap/blob/master/readme/airport8.png">|
-|:--:|:--:|
-|好友登录界面|<img src="https://github.com/teddy-ssy/Airport_indoormap/blob/master/readme/airport7.png">|
-|用户注册界面|<img src="https://github.com/teddy-ssy/Airport_indoormap/blob/master/readme/airport6.png">|
-|好友聊天及位置请求|<img src="https://github.com/teddy-ssy/Airport_indoormap/blob/master/readme/airport5.png">|
-|好友列表界面|<img src="https://github.com/teddy-ssy/Airport_indoormap/blob/master/readme/airport4.png">|
-|好友查找界面|<img src="https://github.com/teddy-ssy/Airport_indoormap/blob/master/readme/airport2.png">|
+|机场服务模块主界面|<img src="https://github.com/teddy-ssy/Airport_indoormap/blob/master/readme/airport8.png">|好友登录界面|<img src="https://github.com/teddy-ssy/Airport_indoormap/blob/master/readme/airport7.png">|用户注册界面|<img src="https://github.com/teddy-ssy/Airport_indoormap/blob/master/readme/airport6.png">|
+|:--:|:--:|:--:|:--:|:--:|:--:|
+|好友聊天及位置请求|<img src="https://github.com/teddy-ssy/Airport_indoormap/blob/master/readme/airport5.png">|好友列表界面|<img src="https://github.com/teddy-ssy/Airport_indoormap/blob/master/readme/airport4.png">|好友查找界面|<img src="https://github.com/teddy-ssy/Airport_indoormap/blob/master/readme/airport2.png">|
 |个人信息设置界面|<img src="https://github.com/teddy-ssy/Airport_indoormap/blob/master/readme/airport1.png">|
 
 ### indoor location
