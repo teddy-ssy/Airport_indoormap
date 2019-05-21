@@ -68,6 +68,9 @@
 ### airport service
 该构件的核心功能在于“好友&&求救”模块，实现了该软件的社交功能，可以为使用该软件的用户提供一个社交网络平台，可以相互加好友、实时聊天等，最重要的是能够向好友紧急求救，通过发送自己的位置信息来应对某些突发情况以求能够快速解救。
 
+模块结构
+<img src="https://github.com/teddy-ssy/Airport_indoormap/blob/master/readme/airport3.png">
+
 与本模块相关的表
 |名称|中文注释|作用|
 |:--:|:--:|:--:|
@@ -95,31 +98,15 @@
 |FriendListGroupItem|好友管理|
 |DbSaveOldMsg|信息记录状态|
 
-模块结构
-
-<img src="https://github.com/teddy-ssy/Airport_indoormap/blob/master/readme/airport3.png">
-
-
+preview
 |机场服务模块主界面|<img src="https://github.com/teddy-ssy/Airport_indoormap/blob/master/readme/airport8.png">|
 |:--:|:--:|
-
-好友登录界面
-<img src="https://github.com/teddy-ssy/Airport_indoormap/blob/master/readme/airport7.png">
-
-用户注册界面
-<img src="https://github.com/teddy-ssy/Airport_indoormap/blob/master/readme/airport6.png">
-
-好友聊天及位置请求
-<img src="https://github.com/teddy-ssy/Airport_indoormap/blob/master/readme/airport5.png">
-
-好友列表界面
-<img src="https://github.com/teddy-ssy/Airport_indoormap/blob/master/readme/airport4.png">
-
-好友查找界面
-<img src="https://github.com/teddy-ssy/Airport_indoormap/blob/master/readme/airport2.png">
-
-个人信息设置界面
-<img src="https://github.com/teddy-ssy/Airport_indoormap/blob/master/readme/airport1.png">
+|好友登录界面|<img src="https://github.com/teddy-ssy/Airport_indoormap/blob/master/readme/airport7.png">|
+|用户注册界面|<img src="https://github.com/teddy-ssy/Airport_indoormap/blob/master/readme/airport6.png">|
+|好友聊天及位置请求|<img src="https://github.com/teddy-ssy/Airport_indoormap/blob/master/readme/airport5.png">|
+|好友列表界面|<img src="https://github.com/teddy-ssy/Airport_indoormap/blob/master/readme/airport4.png">|
+|好友查找界面|<img src="https://github.com/teddy-ssy/Airport_indoormap/blob/master/readme/airport2.png">|
+|个人信息设置界面|<img src="https://github.com/teddy-ssy/Airport_indoormap/blob/master/readme/airport1.png">|
 
 ### indoor location
 
