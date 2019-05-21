@@ -30,7 +30,10 @@
 9.搜索查询：可以进行楼层、地点名、类别名等进行快速、准确的查询并显
 示在机场地图上。
 
-## preview
+## 预览
+功能1
+功能2
+功能2
 
 ## 运行环境
 
@@ -49,7 +52,17 @@
 4) 通信协议：HTTP 协议
 
 
-## Architecture
+## Architecture结构
+<img str="https://github.com/teddy-ssy/Airport_indoormap/blob/master/readme/architicture.png">
+
+构件列表
+|构件列表|
+|:---:|
+|序号|构建分类|依赖关系|复用情况|
+|:---:|:---:|:--:|:--:|
+|1|功能构件|机场服务|无|无|
+|2|功能构件|航班信息|无|无|
+|3|功能构件|室内导航|无|无|
 
 ## feature
 
