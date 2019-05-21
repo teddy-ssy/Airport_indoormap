@@ -178,7 +178,7 @@ preview
 
 |fight searching|<img src="https://github.com/teddy-ssy/Airport_indoormap/blob/master/readme/info1.png">|fight detial|<img src="https://github.com/teddy-ssy/Airport_indoormap/blob/master/readme/info2.png">|
 |:--:|:--:|
-|||
+| | |
 
 ## Roadmap
 
